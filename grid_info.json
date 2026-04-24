@@ -1296,7 +1296,7 @@
     },
     {
         "gridId": "285291475",
-        "info": "Li Thet DOB: 06 Jul 1987. Linked to: Prince Group Transnational Criminal Organization.",
+        "info": "Li Thet DOB: 06 Jul 1987.",
         "link1": "https://ofac.treasury.gov/recent-actions/20251014",
         "link2": "",
         "link3": ""
@@ -1310,7 +1310,7 @@
     },
     {
         "gridId": "285139875",
-        "info": "Paco Martínez Soria YOB: 1988. Fugitive wanted in connection with a road rage incident.",
+        "info": "Paco Martínez Soria YOB: 1988.",
         "link1": "https://www.spaintldr.com/news/fugitive-paco-martinez-soria-road-rage",
         "link2": "",
         "link3": ""
@@ -1340,6 +1340,13 @@
         "gridId": "285139901",
         "info": "Kenneth Miller dob: 1971",
         "link1": "https://www.chathamdailynews.ca/news/local-news/former-chatham-kent-police-officer-charged-with-sexually-assaulting-minor#:~:text=Probe%20leads%20to%20former%20Chatham,involving%20an%20on%2Dduty%20constable.",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "285138980",
+        "info": "Hongwei Sun DOB: June 17, 1968",
+        "link1": "https://bobmackin.substack.com/p/rcmp-officer-testifies-about-pressure",
         "link2": "",
         "link3": ""
     }
