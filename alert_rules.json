@@ -1,15 +1,6 @@
 [
     {
         "active": true,
-        "color": "#b71c1c",
-        "exception": "",
-        "fontSize": "14px",
-        "keyword": "",
-        "message": "",
-        "position": "bottom-left"
-    },
-    {
-        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -376,15 +367,6 @@
         "keyword": "Firm Number: MS + \"PEP\" + \"Provincial\" + CPPCC + Member, Firm Number: MS + \"PEP\" + \"Provincial\" + CPPCC + Vice Chairman, Firm Number: MS + \"PEP\" + \"Provincial\" + CPPCC + Secretary General, Firm Number: MS + \"PEP\" + \"Provincial\" + CPPCC + Deputy Secretary General, Firm Number: MS + \"PEP\" + \"Municipal\" + CPPCC + Member, Firm Number: MS + \"PEP\" + \"Municipal\" + CPPCC + Vice Chairman, Firm Number: MS + \"PEP\" + \"Municipal\" + CPPCC + Secretary General, Firm Number: MS + \"PEP\" + \"Municipal\" + CPPCC + Deputy Secretary General, Firm Number: MS + \"PEP\" + \"Provincial\" + Chinese People's Political Consultative Conference + Member, Firm Number: MS + \"PEP\" + \"Provincial\" + Chinese People's Political Consultative Conference + Vice Chairman, Firm Number: MS + \"PEP\" + \"Provincial\" + Chinese People's Political Consultative Conference + Secretary General, Firm Number: MS + \"PEP\" + \"Provincial\" + Chinese People's Political Consultative Conference + Deputy Secretary General, Firm Number: MS + \"PEP\" + \"Municipal\" + Chinese People's Political Consultative Conference + Member, Firm Number: MS + \"PEP\" + \"Municipal\" + Chinese People's Political Consultative Conference + Vice Chairman, Firm Number: MS + \"PEP\" + \"Municipal\" + Chinese People's Political Consultative Conference + Secretary General, Firm Number: MS + \"PEP\" + \"Municipal\" + Chinese People's Political Consultative Conference + Deputy Secretary General,",
         "message": "MS RISK",
         "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#b71c1c",
-        "exception": "",
-        "fontSize": "14px",
-        "keyword": "",
-        "message": "",
-        "position": "bottom-left"
     },
     {
         "active": true,
