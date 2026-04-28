@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -376,5 +376,14 @@
         "keyword": "Firm Number: MS + Son-in-law + PEP Connect - United States, Firm Number: MS + Daughter-in-law + PEP Connect - United States",
         "message": "MS RIsk",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#2e7d32",
+        "exception": "",
+        "fontSize": "22px",
+        "keyword": "Escalate Inquiry Match + \"WLT\"",
+        "message": "Auto Escalate",
+        "position": "top-center"
     }
 ]
