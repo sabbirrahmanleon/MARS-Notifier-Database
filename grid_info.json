@@ -3325,13 +3325,6 @@
         "link3": ""
     },
     {
-        "gridId": "285919126",
-        "info": "Name: Dmitry Klyuev, DOB: 10.08.1967",
-        "link1": "https://www.russian-untouchables.com/eng/dmitry-klyuev/",
-        "link2": "https://www.occrp.org/en/investigation/the-silent-looting-of-russia",
-        "link3": ""
-    },
-    {
         "gridId": "285919623",
         "info": "Name: Luis López, Alias: Luis Armando López",
         "link1": "https://ground.news/article/we-were-dying-in-our-arms-we-met-a-new-audio-of-angels-mom-the-baby-of-comodoro-rivadavia-diario-panorama",
@@ -3885,13 +3878,6 @@
         "link3": ""
     },
     {
-        "gridId": "286124093",
-        "info": "Name: Gu Hongyu, DOB: August 1971",
-        "link1": "https://baike.baidu.com/item/%E8%B4%BE%E5%AE%8F%E5%AE%87/9981851",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "286173103",
         "info": "Name: Erik Duran, DOB: 1988",
         "link1": "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-sentencing-former-nypd-sergeant-manslaughter",
@@ -3993,6 +3979,20 @@
         "gridId": "285975313",
         "info": "Name: Luis R. Perez Vizcarrondo, DOB: 1980",
         "link1": "https://www.primerahora.com/noticias/policia-tribunales/notas/en-custodia-del-fbi-tio-raul-buscado-por-trasiego-de-drogas-y-armas-e-incidentes-violentos/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "285919126",
+        "info": "Dmitry Klyuev, DOB : 10.08.1967",
+        "link1": "https://www.russian-untouchables.com/eng/dmitry-klyuev/",
+        "link2": "https://www.occrp.org/en/investigation/the-silent-looting-of-russia",
+        "link3": ""
+    },
+    {
+        "gridId": "286124093",
+        "info": "Name: Gu Hongyu, dob: August 1971",
+        "link1": "https://baike.baidu.com/item/%E8%B4%B4%E5%AE%8F%E5%AE%87/9981851",
         "link2": "",
         "link3": ""
     }
