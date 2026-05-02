@@ -399,7 +399,7 @@
         "active": true,
         "color": "#b71c1c",
         "exception": "r-icon-person",
-        "fontSize": "14px",
+        "fontSize": "18px",
         "keyword": "Firm Number: BH04000P",
         "message": "Grid address HAWAII, Guam, Northern Mariana Islands, American Samoa, Palau = Unlimited Geo",
         "position": "middle-left"
