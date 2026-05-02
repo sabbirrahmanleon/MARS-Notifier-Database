@@ -385,5 +385,23 @@
         "keyword": "Escalate Inquiry Match + \"WLT\"",
         "message": "Auto Escalate",
         "position": "top-center"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "Firm Number: DB20031P",
+        "message": "C/V code + MLA, TER, WLT, FOF, FOS = Unlimited Geo <br>\nOthers 65 Miles",
+        "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "r-icon-person",
+        "fontSize": "14px",
+        "keyword": "Firm Number: BH04000P",
+        "message": "Grid address HAWAII, Guam, Northern Mariana Islands, American Samoa, Palau = Unlimited Geo",
+        "position": "middle-left"
     }
 ]
