@@ -140,7 +140,7 @@
         "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
         "fontSize": "18px",
         "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
-        "message": "REG / L2: ONLY ALERT state Lt. Governor",
+        "message": "REG / L2: ONLY ALERT state Lt. Governor (Main Too)",
         "position": "bottom-center"
     },
     {
