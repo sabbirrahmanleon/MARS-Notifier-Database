@@ -139,15 +139,6 @@
         "color": "#1565c0",
         "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
         "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
-        "message": "REG / L2: ONLY ALERT state Lt. Governor (Main Too)",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
         "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L4",
         "message": "REG / L4: NO MATCH any Mayor (Main too)",
         "position": "bottom-center"
@@ -385,6 +376,15 @@
         "keyword": "Escalate Inquiry Match + \"WLT\"",
         "message": "Auto Escalate",
         "position": "top-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
+        "message": "REG / L2: ONLY ALERT state Lt. Governor (Main Too)",
+        "position": "bottom-center"
     },
     {
         "active": true,
