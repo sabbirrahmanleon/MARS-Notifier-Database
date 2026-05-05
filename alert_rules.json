@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -403,5 +403,14 @@
         "keyword": "Firm Number: BH04000P, Firm Number: BH04001P",
         "message": "Grid address HAWAII, Guam, Northern Mariana Islands, American Samoa, Palau = Unlimited Geo",
         "position": "middle-left"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: SN70000P + PEP Connect - United States + \"Congress\"",
+        "message": "Congress = Federal PEP",
+        "position": "middle-right"
     }
 ]
