@@ -7348,5 +7348,26 @@
         "link1": "https://www.sec.gov/files/litigation/admin/2025/34-103813.pdf",
         "link2": "",
         "link3": ""
+    },
+    {
+        "gridId": "287788204",
+        "info": "Name: Eric Adams, Alias: Eric Leroy Adams, DOB: September 1, 1960",
+        "link1": "https://en.wikipedia.org/wiki/Eric_Adams",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287850381",
+        "info": "Name: Mercedes-Benz, Alias: Mercedes-Benz USA LLC",
+        "link1": "https://www.justice.gov/archives/opa/pr/us-reaches-15-billion-settlement-daimler-ag-over-emissions-cheating-mercedes-benz-diesel",
+        "link2": "https://villanovaelj.scholasticahq.com/post/1398-doj-damages-due-to-daimler-s-defeat-devices",
+        "link3": ""
+    },
+    {
+        "gridId": "287626717",
+        "info": "Name: Patrick Nichols, DOB: 1965",
+        "link1": "https://thedailyrecord.com/2026/04/24/montgomery-county-patrick-nichols-police-force/",
+        "link2": "",
+        "link3": ""
     }
 ]
