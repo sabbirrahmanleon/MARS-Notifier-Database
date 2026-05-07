@@ -435,9 +435,9 @@
         "active": true,
         "color": "#b71c1c",
         "exception": "r-icon-org",
-        "fontSize": "14px",
+        "fontSize": "18px",
         "keyword": "Firm Number: RJ01005P",
         "message": "• No Variation of First and Last Name (Inc. short form & initials) <br>\n• Slight Variation allowed for middle names",
-        "position": "bottom-left"
+        "position": "bottom-center"
     }
 ]
