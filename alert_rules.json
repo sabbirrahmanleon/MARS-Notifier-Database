@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -133,6 +133,15 @@
         "keyword": "Firm Number: BL03000P + r-icon-org",
         "message": "Need Exact Global Fortune",
         "position": "bottom-left"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
+        "message": "REG / L2: ONLY ALERT state Lt. Governor",
+        "position": "bottom-center"
     },
     {
         "active": true,
@@ -379,21 +388,30 @@
     },
     {
         "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
-        "message": "REG / L2: ONLY ALERT state Lt. Governor (Main Too)",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
         "color": "#b71c1c",
         "exception": "r-icon-org",
         "fontSize": "18px",
         "keyword": "Firm Number: DB20031P",
         "message": "C/V code + MLA, TER, WLT, FOF, FOS = Unlimited Geo <br>\nOthers 65 Miles",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "Firm Number: BH04000P",
+        "message": "Grid address HAWAII, Guam, Northern Mariana Islands, American Samoa, Palau = Unlimited Geo",
+        "position": "middle-left"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
+        "message": "REG / L2: ONLY ALERT state Lt. Governor (Main Too)",
+        "position": "bottom-center"
     },
     {
         "active": true,
@@ -412,5 +430,14 @@
         "keyword": "Firm Number: SN70000P + PEP Connect - United States + \"Congress\"",
         "message": "Congress = Federal PEP",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "r-icon-org",
+        "fontSize": "14px",
+        "keyword": "Firm Number: RJ01005P",
+        "message": "• No Variation of First and Last Name (Inc. short form & initials) <br>\n• Slight Variation allowed for middle names",
+        "position": "bottom-left"
     }
 ]
