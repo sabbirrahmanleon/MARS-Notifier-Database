@@ -104,8 +104,8 @@
         "exception": "",
         "fontSize": "18px",
         "keyword": "Firm Number: MS41000P + r-icon-org, Firm Number: MS41002P + r-icon-org",
-        "message": "No Need to check MS List",
-        "position": "bottom-left"
+        "message": "No Need to check MS Unrestricted List",
+        "position": "middle-left"
     },
     {
         "active": true,
