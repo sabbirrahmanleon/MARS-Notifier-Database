@@ -7217,7 +7217,7 @@
         "link3": ""
     },
     {
-        "gridId": "287625811, 287852569",
+        "gridId": "287852569",
         "info": "David Israel Muñoz Alias: David Antonio Israel Muñoz\nDOB : 1986",
         "link1": "https://www.latercera.com/nacional/noticia/como-la-investigacion-contra-la-mafia-china-termino-vinculando-a-kaminski-en-la-operacion-rey-david/",
         "link2": "https://www.t13.cl/noticia/nacional/formaba-parte-estructura-criminal-informe-pdi-apunta-kaminski-brazo-operativo-4-5-2026",
@@ -7756,13 +7756,6 @@
         "link3": ""
     },
     {
-        "gridId": "287853739",
-        "info": "Entity Name: Abdul Jabbar, Location mentioned in link: bangladesh, satkhira",
-        "link1": "https://www.tbsnews.net/bangladesh/crime/kidnapped-satkhira-veterinary-doctor-rescued-3-detained-1429471",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "287853090",
         "info": "Mohammad Salim, Full Name : Mohammed Salim Mirmohammad",
         "link1": "https://timesofindia.indiatimes.com/city/rajkot/tada-court-convicts-12-in-gosabara-arms-landing-case-17-acquitted/articleshow/130810081.cms",
@@ -7857,6 +7850,34 @@
         "gridId": "287964489",
         "info": "Name: Jiang Feng, DOB: 1983",
         "link1": "https://www.justice.gov/opa/pr/queens-pharmacy-owner-sentenced-over-five-years-prison-money-laundering-scheme",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287625811",
+        "info": "David Israel Muñoz Alias: David Antonio Israel Muñoz\nDOB : 1986",
+        "link1": "https://www.latercera.com/nacional/noticia/como-la-investigacion-contra-la-mafia-china-termino-vinculando-a-kaminski-en-la-operacion-rey-david/",
+        "link2": "https://www.t13.cl/noticia/nacional/formaba-parte-estructura-criminal-informe-pdi-apunta-kaminski-brazo-operativo-4-5-2026",
+        "link3": ""
+    },
+    {
+        "gridId": "287851860",
+        "info": "Name: Elizabeth Rodriguez, DOB: 1990",
+        "link1": "https://www.msn.com/en-us/news/crime/2-more-danbury-residents-seek-diversionary-program-in-alleged-draftkings-scheme/ar-AA22nenT",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287800668",
+        "info": "Name: Balwinder Singh, GEO: USA Invalid capture",
+        "link1": "",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287853739",
+        "info": "Name: Abdul Jabbar, DOB: 1991, TER - Wrong Capture",
+        "link1": "https://khulnagazette.com/khulnanchal/satkhira/465633/",
         "link2": "",
         "link3": ""
     }
