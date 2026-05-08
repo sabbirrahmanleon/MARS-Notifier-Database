@@ -443,7 +443,7 @@
     {
         "active": true,
         "color": "#b71c1c",
-        "exception": "r-icon-org",
+        "exception": "r-icon-org, City 1: INDIANAPOLIS, City 1: minneapolis",
         "fontSize": "22px",
         "keyword": "Firm Number: MS + APO, Firm Number: MS + BPO, Firm Number: MS + FPO, Firm Number: MS + CPO",
         "message": "NO GEOG",
