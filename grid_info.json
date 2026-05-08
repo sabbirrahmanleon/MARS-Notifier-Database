@@ -7733,5 +7733,33 @@
         "link1": "https://www.orlandosentinel.com/1986/10/11/home-birth-two-midwives-have-been-found/",
         "link2": "https://www.marketscreener.com/insider/MARY-SULLIVAN-A00XQ6/",
         "link3": ""
+    },
+    {
+        "gridId": "288082282",
+        "info": "Name: ROBERTO GUTIERREZ, DOB: 1973",
+        "link1": "https://www.yahoo.com/news/men-california-nevada-sentenced-running-154914017.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287853340",
+        "info": "Name: Amit Mittal, DOB: 1968, Alias: Amit Indrasen Mittal",
+        "link1": "https://www.marketscreener.com/insider/AMIT-INDRASEN-MITTAL-A0LVCX/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287956041",
+        "info": "Entity Name: Mohammed Umar, YOB: 1995, Location mentioned in link: bangalore",
+        "link1": "https://indianexpress.com/article/cities/bangalore/accused-prison-terror-conspiracy-case-let-linked-naseer-seek-plead-guilty-10125417/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "287853739",
+        "info": "Entity Name: Abdul Jabbar, Location mentioned in link: bangladesh, satkhira",
+        "link1": "https://www.tbsnews.net/bangladesh/crime/kidnapped-satkhira-veterinary-doctor-rescued-3-detained-1429471",
+        "link2": "",
+        "link3": ""
     }
 ]
