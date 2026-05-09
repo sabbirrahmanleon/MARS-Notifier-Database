@@ -8218,13 +8218,6 @@
         "link3": ""
     },
     {
-        "gridId": "288035209",
-        "info": "Name: Ravi Kumar; Alias: Ravi Kumar Singisetti, also known as Ravi Kumar S and S Ravi Kumar; DOB: 1971 or 1972",
-        "link1": "https://en.wikipedia.org/wiki/Ravi_Kumar_Singisetti",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "288037325",
         "info": "Name: James Cameron; Alias: James Francis Cameron; DOB: August 16, 1954",
         "link1": "https://en.wikipedia.org/wiki/James_Cameron",
@@ -8277,6 +8270,13 @@
         "gridId": "287979289",
         "info": "Name: C Joseph Vijay; Alias: Vijay, Joseph Vijay Chandrasekhar, Joseph Vijay, C. Joseph Vijay, Chandrasekaran Joseph Vijay, Vijay Thalapathy; DOB: 22 June 1974",
         "link1": "https://en.wikipedia.org/wiki/Vijay_(actor)",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "288035209",
+        "info": "Name: Ravi Kumar, Alias: Ravi Kumar Singisetti, also known as Ravi Kumar S and S Ravi Kumar, DOB: 1971 or 1972",
+        "link1": "https://en.wikipedia.org/wiki/Ravi_Kumar_Singisetti",
         "link2": "",
         "link3": ""
     }
