@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -303,7 +303,7 @@
         "fontSize": "18px",
         "keyword": "Firm Number: UX01000P",
         "message": "ONLY ALERT Parent company",
-        "position": "bottom-right"
+        "position": "middle-center"
     },
     {
         "active": true,
