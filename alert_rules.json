@@ -303,7 +303,7 @@
         "fontSize": "18px",
         "keyword": "Firm Number: UX01000P",
         "message": "ONLY ALERT Parent company",
-        "position": "middle-center"
+        "position": "bottom-center"
     },
     {
         "active": true,
