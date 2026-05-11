@@ -9168,5 +9168,26 @@
         "link1": "",
         "link2": "",
         "link3": ""
+    },
+    {
+        "gridId": "288380495",
+        "info": "Nicholas Larsen, YOB: 1999, GEO: Price",
+        "link1": "https://etvnews.com/articles/featured/suspect-booked-on-10-charges-following-discovery-of-missing-teens-in-price/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "288377787",
+        "info": "Orlando da Silva Fernandes, DOB: 1982, Alias: Bomba, Deceased: October 26, 2018",
+        "link1": "https://primeirapagina.com.br/justica/morte-de-bomba-ex-seguranca-de-rafaat-segue-sem-respostas/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "288378051",
+        "info": "Pedro Fernandez",
+        "link1": "https://www.dhs.gov/news/2026/05/08/ice-arrests-multiple-child-predators-violent-criminal-who-assaulted-pregnant-woman",
+        "link2": "",
+        "link3": ""
     }
 ]
