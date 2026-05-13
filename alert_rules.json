@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -434,7 +434,7 @@
     {
         "active": true,
         "color": "#b71c1c",
-        "exception": "r-icon-org, City 1: INDIANAPOLIS, City 1: minneapolis, APOLIS",
+        "exception": "r-icon-org, City 1: INDIANAPOLIS, City 1: minneapolis",
         "fontSize": "22px",
         "keyword": "Firm Number: MS + \"APO\", Firm Number: MS + \"BPO\", Firm Number: MS + \"FPO\", Firm Number: MS + \"CPO\"",
         "message": "NO GEOG",
