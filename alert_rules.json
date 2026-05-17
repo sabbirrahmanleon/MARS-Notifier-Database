@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -436,8 +436,17 @@
         "color": "#b71c1c",
         "exception": "r-icon-org, City 1: INDIANAPOLIS, City 1: minneapolis",
         "fontSize": "22px",
-        "keyword": "Firm Number: MS + \"APO\", Firm Number: MS + \"BPO\", Firm Number: MS + \"FPO\", Firm Number: MS + \"CPO\"",
+        "keyword": "Firm Number: MS + \"APO\", Firm Number: MS + \"BPO\", Firm Number: MS + \"FPO\", Firm Number: MS + \"CPO\", Province: AP",
         "message": "NO GEOG",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#ef6c00",
+        "exception": "r-icon-person",
+        "fontSize": "18px",
+        "keyword": "Firm Number: FO01000P",
+        "message": "Alert only on HQ or exact subsidiary submitted except MLA, WLT, TER, FOF, FOS, BRB",
+        "position": "bottom-center"
     }
 ]
