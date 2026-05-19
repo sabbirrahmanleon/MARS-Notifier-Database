@@ -119,9 +119,9 @@
     {
         "active": true,
         "color": "#b71c1c",
-        "exception": "r-icon-org, Search Type: Look Forward",
+        "exception": "r-icon-org",
         "fontSize": "22px",
-        "keyword": "\"TAX\" + \"MEXICO\"",
+        "keyword": "RFC + MEXICO",
         "message": "Look for DOB",
         "position": "bottom-center"
     },
