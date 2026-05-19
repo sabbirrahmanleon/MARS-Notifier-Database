@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -438,6 +438,15 @@
         "fontSize": "18px",
         "keyword": "Firm Number: FO01000P",
         "message": "Alert only on HQ or exact subsidiary submitted except MLA, WLT, TER, FOF, FOS, BRB",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#ef6c00",
+        "exception": "img:common-name-icon.png, Firm Number: RI99990P",
+        "fontSize": "22px",
+        "keyword": "r-icon-person, Date of Birth",
+        "message": "Uncommon Name, Careful",
         "position": "bottom-center"
     }
 ]
