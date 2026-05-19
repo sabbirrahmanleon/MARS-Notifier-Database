@@ -445,7 +445,7 @@
         "color": "#ef6c00",
         "exception": "img:common-name-icon.png, Firm Number: RI99990P",
         "fontSize": "22px",
-        "keyword": "r-icon-person, Date of Birth",
+        "keyword": "r-icon-person + Date of Birth",
         "message": "Uncommon Name, Careful",
         "position": "bottom-center"
     }
