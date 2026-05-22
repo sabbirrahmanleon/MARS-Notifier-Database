@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -328,7 +328,7 @@
         "color": "#b71c1c",
         "exception": "\"father\", \"mother\", \"son\", \"daughter\", \"brother\", \"sister\", \"husband\", \"wife\"",
         "fontSize": "18px",
-        "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + aunt, Firm Number: MS + cousin",
+        "keyword": "Firm Number: MS + \"PEP\" + grandson, Firm Number: MS + \"PEP\" + granddaughter, Firm Number: MS + \"PEP\" + nephew, Firm Number: MS + \"PEP\" + niece, Firm Number: MS + \"PEP\" + uncle, Firm Number: MS + \"PEP\" + aunt, Firm Number: MS + \"PEP\" + cousin",
         "message": "RISK NM",
         "position": "bottom-center"
     },
