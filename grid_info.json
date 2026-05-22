@@ -13333,5 +13333,26 @@
         "link1": "",
         "link2": "",
         "link3": ""
+    },
+    {
+        "gridId": "289879378",
+        "info": "Matthew Jones, DOB: 1981, GEO: Australia",
+        "link1": "https://www.theguardian.com/australia-news/2017/jan/25/australia-day-is-dickhead-day-year-long-visceral-backlash-over-chalkboard-message",
+        "link2": "https://en.wikipedia.org/wiki/Matt_Chun",
+        "link3": ""
+    },
+    {
+        "gridId": "289881695",
+        "info": "Ian Nixon, DOB: 1983, GEO: Bahamas, Florida",
+        "link1": "https://www.cbsnews.com/news/pilot-crash-landing-rescue-bahamas-florida/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289936766",
+        "info": "José Pedro Rojas Velasco, Alias: Pepa, DOB: 1997, GEO: Argentina",
+        "link1": "https://www.infobae.com/deportes/2026/04/28/el-asesinato-de-un-piloto-de-rally-que-causo-conmocion-su-vinculo-con-una-red-criminal-y-la-posible-causa-del-crimen/",
+        "link2": "",
+        "link3": ""
     }
 ]
