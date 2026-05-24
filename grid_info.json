@@ -12985,7 +12985,7 @@
         "link3": ""
     },
     {
-        "gridId": "289747945, 290026912",
+        "gridId": "289747945",
         "info": "Entity Name:\nAlfredo Ramírez Bedolla\n22 February 1976",
         "link1": "https://en.wikipedia.org/wiki/Alfredo_Ram%C3%ADrez_Bedolla",
         "link2": "",
@@ -13188,6 +13188,13 @@
         "link3": ""
     },
     {
+        "gridId": "289882303",
+        "info": "Name: Juan Pablo Guaita",
+        "link1": "https://www.lagaceta.com.ar/nota/1125890/economia/fracaso-definitivo-pidio-quiebra-fabricante-aires-acondicionados-electra-fedders.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
         "gridId": "289884245",
         "info": "Name: Vikram Singh, DOB: 1995",
         "link1": "https://timesofindia.indiatimes.com/city/indore/five-interstate-drug-traffickers-arrested-in-indore-md-worth-rs-1-crore-seized/articleshow/131208434.cms",
@@ -13329,7 +13336,7 @@
     },
     {
         "gridId": "289879378",
-        "info": "Matthew Jones, DOB: 1981",
+        "info": "Matthew Jones, DOB: 1981, GEO: Australia",
         "link1": "https://www.theguardian.com/australia-news/2017/jan/25/australia-day-is-dickhead-day-year-long-visceral-backlash-over-chalkboard-message",
         "link2": "https://en.wikipedia.org/wiki/Matt_Chun",
         "link3": ""
@@ -13346,6 +13353,13 @@
         "info": "José Pedro Rojas Velasco, Alias: Pepa, DOB: 1997, GEO: Argentina",
         "link1": "https://www.infobae.com/deportes/2026/04/28/el-asesinato-de-un-piloto-de-rally-que-causo-conmocion-su-vinculo-con-una-red-criminal-y-la-posible-causa-del-crimen/",
         "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289879378",
+        "info": "Matthew Jones, DOB: 1981",
+        "link1": "https://www.theguardian.com/australia-news/2017/jan/25/australia-day-is-dickhead-day-year-long-visceral-backlash-over-chalkboard-message",
+        "link2": "https://en.wikipedia.org/wiki/Matt_Chun",
         "link3": ""
     },
     {
@@ -13370,7 +13384,7 @@
         "link3": ""
     },
     {
-        "gridId": "289881901, 289968209, 289968581",
+        "gridId": "289881901",
         "info": "Name: Francisco Gonzalez, Alias: Francisco Javier Gonzalez, Dob: 1967",
         "link1": "https://www.fox32chicago.com/news/florida-lawyer-influencer-daughter-arrested-alleged-murder-for-hire-plot",
         "link2": "",
@@ -13478,6 +13492,13 @@
         "gridId": "289881368",
         "info": "Name: Antonio Martínez",
         "link1": "https://gerente.com/ve/new-rss/excarcelan-al-abogado-antonio-martinez-tras-cinco-meses-de-detencion-arbitraria/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289936284",
+        "info": "Name: Mohd Muzzaffar Hussain, Alias: Guddu, YOB: 1984",
+        "link1": "https://abolishsporthunting.org/blog/illegal-wildlife-hunting-gang-busted-6-land-behind-bars/",
         "link2": "",
         "link3": ""
     },
@@ -13727,6 +13748,13 @@
         "link3": ""
     },
     {
+        "gridId": "289881901, 289968209, 289968581",
+        "info": "Name: Francisco Gonzalez, Alias: Francisco Javier Gonzalez, Dob: 1967",
+        "link1": "https://www.fox32chicago.com/news/florida-lawyer-influencer-daughter-arrested-alleged-murder-for-hire-plot",
+        "link2": "",
+        "link3": ""
+    },
+    {
         "gridId": "289968147",
         "info": "Name: Erasmo González Robledo, DOB: June 28, 1972",
         "link1": "https://es.wikipedia.org/wiki/Erasmo%20Gonz%C3%A1lez%20Robledo",
@@ -13842,6 +13870,13 @@
         "gridId": "289971606",
         "info": "Amit Garg Age logic",
         "link1": "https://mycorporateinfo.com/director/amit-kumar-garg-1683963",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289747945, 290026912",
+        "info": "Entity Name:\nAlfredo Ramírez Bedolla\n22 February 1976",
+        "link1": "https://en.wikipedia.org/wiki/Alfredo_Ram%C3%ADrez_Bedolla",
         "link2": "",
         "link3": ""
     },
@@ -14052,6 +14087,118 @@
         "gridId": "289968718",
         "info": "Name: Manish Kumar, DOB: 1988",
         "link1": "https://www.justice.gov/usao-ri/pr/five-tied-millions-dollars-telemarketing-fraud-convicted",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289969050",
+        "info": "Name: B Vijay Kumar",
+        "link1": "https://www.thehindu.com/news/cities/Hyderabad/acb-nabs-bowenpally-si-constable-while-accepting-30000-bribe/article71002775.ece",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289968948",
+        "info": "Name: B Vijay Kumar",
+        "link1": "https://www.thehindu.com/news/cities/Hyderabad/acb-nabs-bowenpally-si-constable-while-accepting-30000-bribe/article71002775.ece",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289969134",
+        "info": "Name: Gagandeep Singh, Dob: 2000",
+        "link1": "https://www.tribuneindia.com/news/amritsar/cross-border-drug-network-busted-two-arrested-with-over-7-kg-heroin/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289966923",
+        "info": "Name: Gagandeep Singh, Dob: 2000",
+        "link1": "https://www.tribuneindia.com/news/amritsar/cross-border-drug-network-busted-two-arrested-with-over-7-kg-heroin/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289952754",
+        "info": "Name: Michael Jackson, Name Part: Michael W. Jackson",
+        "link1": "https://www.scribd.com/document/470367541/Michael-W-Jackson-Complaint-Redacted",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289968928",
+        "info": "Name: Ibrahim Ibrahim, Date of Birth: 1991",
+        "link1": "https://newmediadetroit.com/practicing-muslim-sues-washtenaw-county-jail-for-3-5-million-after-allegedly-being-served-pork-during-ramadan/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289969574",
+        "info": "Name: John Pena, DOB: 1992",
+        "link1": "https://lamag.com/crimeinla/left-his-brains-on-them-sheets-nyc-gang-boss-gets-life-for-double-execution/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289968922",
+        "info": "Name: Juan Briseño, Full name: Juan Manuel Briseño González",
+        "link1": "https://www.eluniversal.com.mx/nacion/piden-a-american-chamber-asesoria-por-presuntos-malos-manejos-en-cooperativa-cruz-azul/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289955836",
+        "info": "Name: Arshdeep Singh, dob: May 21, 1996",
+        "link1": "https://timesofindia.indiatimes.com/india/mha-designates-khalistan-tiger-force-associate-arshdeep-singh-gill-as-terrorist/articleshow/96862379.cms",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289972518",
+        "info": "Name: Chisom Okafor, Aged between 15 and 17",
+        "link1": "",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289968962",
+        "info": "Name: Kevin Murphy, Full name: Kevin Lyle Murphy",
+        "link1": "https://www.mlive.com/news/jackson/2026/05/hillsdale-county-sexual-assault-suspect-pleads-no-contest.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289970280",
+        "info": "Name: Jose Alvarez-Raya, Alias: Jose Antonia Alvarez Raya, DOB: 1988",
+        "link1": "https://www.myleaderpaper.com/news/police_fire/two-men-suspected-of-running-scam-at-home-depot/article_e27f4017-d29f-4f21-bf44-25d5809b3058.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289969828",
+        "info": "Name: Ernesto Alonso Ruiz, DOB: 1979",
+        "link1": "https://collinsimsda.org/major-multi-state-drug-trafficking-network-dismantled-five-indicted-after-3-2-million-seizure/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289956348",
+        "info": "Name: Ricardo Peralta Saucedo, date of birth: 29 April 1972",
+        "link1": "https://www.wikidata.org/wiki/Q120135353",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289956626",
+        "info": "Name: K Mahesh, Alias: Kurella Mahesh Kumar",
+        "link1": "https://www.newindianexpress.com/cities/hyderabad/2026/May/21/sun-tv-staff-threatened-over-ipl-tickets-in-telangana",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "289969452",
+        "info": "Name: Surinder Kumar",
+        "link1": "https://thenorthernherald.com/reasi-police-nabs-notorious-criminal-within-5-hours-of-murder-bid-in-katra/",
         "link2": "",
         "link3": ""
     }
