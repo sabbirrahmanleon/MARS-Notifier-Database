@@ -328,7 +328,7 @@
         "color": "#b71c1c",
         "exception": "\"father\", \"mother\", \"son\", \"daughter\", \"brother\", \"sister\", \"husband\", \"wife\"",
         "fontSize": "18px",
-        "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + aunt, Firm Number: MS + cousin",
+        "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + \"aunt\", Firm Number: MS + cousin",
         "message": "RISK NM",
         "position": "bottom-center"
     },
