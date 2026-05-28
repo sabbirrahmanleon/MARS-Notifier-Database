@@ -328,7 +328,7 @@
         "color": "#b71c1c",
         "exception": "\"father\", \"mother\", \"son\", \"daughter\", \"brother\", \"sister\", \"husband\", \"wife\"",
         "fontSize": "18px",
-        "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + \"aunt\", Firm Number: MS + cousin",
+        "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + aunt, Firm Number: MS + cousin",
         "message": "RISK NM",
         "position": "bottom-center"
     },
@@ -443,7 +443,7 @@
     {
         "active": true,
         "color": "#ef6c00",
-        "exception": "img:common-name-icon.png, Firm Number: RI99990P",
+        "exception": "img:common-name-icon.png, Firm Number: RI99990P, Firm Number: LP01005V",
         "fontSize": "22px",
         "keyword": "r-icon-person + Date of Birth",
         "message": "Uncommon Name, Careful",
@@ -457,5 +457,14 @@
         "keyword": "Firm Number: MS63005P",
         "message": "UNLIMITED GEO",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "\"father\", \"mother\", \"son\", \"daughter\", \"brother\", \"sister\", \"husband\", \"wife\"",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + \"aunt\", Firm Number: MS + cousin",
+        "message": "RISK NM",
+        "position": "bottom-center"
     }
 ]
