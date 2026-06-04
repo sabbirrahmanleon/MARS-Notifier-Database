@@ -16646,13 +16646,6 @@
         "link3": ""
     },
     {
-        "gridId": "290712796",
-        "info": "Name: John Norman, DOB: 1986",
-        "link1": "https://saltscapes.com/sweet-home-bonavista/",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "290721750",
         "info": "Name: Jonathan Legh Smith",
         "link1": "https://www.linkedin.com/in/jonathan-legh-smith/",
@@ -16710,7 +16703,7 @@
     },
     {
         "gridId": "290624856",
-        "info": "David Rush, David J. Rush",
+        "info": "David Rush, David J. Rush\nDOB 1977 Inside grid article",
         "link1": "https://www.insidenova.com/news/loudoun/ashburn-resident-a-former-cia-employee-accused-of-stashing-40m-in-gold-bars-in-his/article_6cb54d2e-3068-4185-8a42-6bedeb86a385.html",
         "link2": "",
         "link3": ""
@@ -16822,8 +16815,8 @@
     },
     {
         "gridId": "290627225",
-        "info": "",
-        "link1": "",
+        "info": "José Jiménez\nDOB - 1994",
+        "link1": "https://www.justice.gov/usao-sdca/pr/four-charged-trafficking-more-45-million-worth-cocaine-through-sophisticated-cross",
         "link2": "",
         "link3": ""
     },
@@ -16901,6 +16894,55 @@
         "gridId": "290722754",
         "info": "Nicole Gray, April 21",
         "link1": "https://www.linkedin.com/in/nicolewilliamsyeg/overlay/contact-info/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290712796",
+        "info": "Entity Name: John Norman DOB : 1985",
+        "link1": "https://atlanticbusinessmagazine.ca/article/bonavistas-master-of-flip/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290724480",
+        "info": "Entity Name: Pamela Williams YOB : 1966",
+        "link1": "https://sascaonline.com/2026/05/21/bahamas-customs-officer-faces-77-charges-in-alleged-cash-for-clearance-scandal/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290626746",
+        "info": "Robert Wade Dob:1981",
+        "link1": "https://hoodline.com/2026/06/marshals-track-euclid-fugitive-accused-of-child-rape-across-northeast-ohio/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290712104",
+        "info": "Adam Harley - 1992",
+        "link1": "https://en.wikipedia.org/wiki/Adam_Harley#:~:text=Adam_Harley_is_a_Scottish,representing_the_Scottish_Liberal_Democrats.",
+        "link2": "https://www.linkedin.com/in/adam-harley-a77527114/",
+        "link3": ""
+    },
+    {
+        "gridId": "290724311",
+        "info": "Paul Joshua Leight Dob: April 1934",
+        "link1": "https://find-and-update.company-information.service.gov.uk/company/11885148/persons-with-significant-control",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290627404",
+        "info": "Entity Name: Kasim Hussein Full Name: Kasim Nazir Hussein",
+        "link1": "https://www.freepressjournal.in/mumbai/pakistani-link-surfaces-in-200-crore-international-drug-syndicate-busted-by-ncb",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290625279",
+        "info": "Entity Name: Mark Peterson Jr. Full Name : Mark Anthony Peterson Jr. DOB : 1990",
+        "link1": "https://www.rrdailyherald.com/news/local/couple-wanted-by-hcso-for-march-copper-thefts/article_2070e89f-ae85-5a6c-95f3-921f9756eda2.html",
         "link2": "",
         "link3": ""
     }
