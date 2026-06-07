@@ -18117,7 +18117,7 @@
     },
     {
         "gridId": "291110663",
-        "info": "Name: Jimmy GREEN, DOB: Age range(2026): 30 - 35, Source: INSIDE GRID",
+        "info": "Name: Jimmy GREEN, DOB: Age range(2026): 30 - 35",
         "link1": "",
         "link2": "",
         "link3": ""
@@ -18131,14 +18131,14 @@
     },
     {
         "gridId": "291066090",
-        "info": "Name: Rafael Ramírez, Full Name: Rafael Arturo Ramírez Colina, DOB: 07/28/1975",
+        "info": "Name: Rafael Arturo Ramírez Colina, Alias: Rafael Ramírez, DOB: 07/28/1975",
         "link1": "https://es.wikipedia.org/wiki/Rafael_Ram%C3%ADrez_Colina",
         "link2": "",
         "link3": ""
     },
     {
         "gridId": "291066209",
-        "info": "Name: CHRISTOPHER TERRY, DOB: 1968/10/18, related with IM Mastery Academy",
+        "info": "Name: CHRISTOPHER TERRY, DOB: 1968/10/18",
         "link1": "https://en.everybodywiki.com/Christopher_Terry",
         "link2": "",
         "link3": ""
@@ -18166,14 +18166,14 @@
     },
     {
         "gridId": "290970347",
-        "info": "Name: Antonio Molina Diaz, Info: IN November 1995, he assumed the position of head of the Auxiliary Secretariat of the Legal Department at the Social Rehabilitation Center (Cereso)",
+        "info": "Name: Antonio Molina Diaz",
         "link1": "https://www.milenio.com/policia/quien-es-antonio-molina-diaz-excoordinador-prisiones-federales-perfil",
         "link2": "",
         "link3": ""
     },
     {
         "gridId": "291087764",
-        "info": "Name: Jay Dempsey, Alias: Jay Francis Dempsey",
+        "info": "Name: Jay Dempsey, Alias: Jay Francis Dempsey, GEO: eu",
         "link1": "https://www.wfla.com/news/hillsborough-county/search-warrants-reveal-details-names-in-plant-city-quadruple-murder/",
         "link2": "",
         "link3": ""
@@ -18187,9 +18187,72 @@
     },
     {
         "gridId": "291066197",
-        "info": "Name: Jonathan González, Full Name: Jonathan Mauricio González, DOB: 1996",
+        "info": "Name: Jonathan Mauricio González, Alias: Jonathan González, DOB: 1996",
         "link1": "https://www.diariodecuyo.com.ar/policiales/enfrentamientos-en-la-barra-de-san-martin-uno-de-los-implicados-seguira-detenido-pero-en-su-casa-1817980.html",
         "link2": "https://www.0264noticias.com.ar/noticias/2025/11/13/83969-condenaron-a-los-lideres-de-la-banda-del-pueblo-viejo-por-los-enfrentamientos-entre-barras-de-san-martin",
+        "link3": ""
+    },
+    {
+        "gridId": "291086481",
+        "info": "Name: Guilherme Sobrinho Keller Vieira, YOB: 2000",
+        "link1": "https://g1.globo.com/google/amp/sp/sao-paulo/noticia/2026/06/03/video-seguranca-mata-ex-namorada-com-6-tiros-e-foge-de-carro-na-zona-sul-de-sp.ghtml",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291110855",
+        "info": "Name: Elaine Angene Escoe, DOB: 1985",
+        "link1": "https://www.fbi.gov/contact-us/field-offices/miami/news/fbi-seeks-information-on-fugitive",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291115640",
+        "info": "Name: Elaine Angene Escoe, DOB: 1985",
+        "link1": "https://www.fbi.gov/contact-us/field-offices/miami/news/fbi-seeks-information-on-fugitive",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291064139",
+        "info": "Name: Kenneth M. Law, Alias: Kenneth Law, YOB: 1965",
+        "link1": "https://en.wikipedia.org/wiki/Kenneth_Law",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290994992",
+        "info": "Name: Darío Federico Rodríguez, Alias: Darío Rodríguez",
+        "link1": "https://www.0221.com.ar/la-plata/el-juicio-el-crimen-fernando-couste-la-plata-termino-culpables-y-los-acusados-libertad-n128868",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "290874533",
+        "info": "Name: Jorge Mario Gómez Justiniano, YOB: 1997",
+        "link1": "https://lapatria.bo/actualidad/narcotraficantes-improvisan-pista-clandestina-para-aterrizaje-de-avioneta/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291115596",
+        "info": "Name: Enid M. Rivera-Rosario, Alias: Enid Rivera",
+        "link1": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/27-individuals-indicted-buying-and-selling-wholesale-quantities-misbranded-and-diverted-prescription",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291066948",
+        "info": "Name: Md. Anwar Hakim, DOB: 1996",
+        "link1": "https://observerbd.com/news/492001",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291239016",
+        "info": "Name: Charles E. Jones, YOB: 1956",
+        "link1": "https://www.justice.gov/usao-sdoh/pr/grand-jury-indicts-2-former-firstenergy-executives-racketeering-conspiracy-involving",
+        "link2": "",
         "link3": ""
     }
 ]
