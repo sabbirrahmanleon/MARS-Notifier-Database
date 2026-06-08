@@ -18739,13 +18739,6 @@
         "link3": ""
     },
     {
-        "gridId": "291229724",
-        "info": "Name: Josh Cohen",
-        "link1": "https://www.mrt.com/business/oil/article/vision-oil-gas-texas-permian-acquisition-22085557.php",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "291234871, 291235360",
         "info": "Backdated",
         "link1": "",
@@ -18764,6 +18757,41 @@
         "info": "KUMAR. R\nDOB: 1966",
         "link1": "https://en.wikipedia.org/wiki/R._Kumar",
         "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291230509",
+        "info": "Ashley Garcia\n1989",
+        "link1": "https://www.justice.gov/usao-sdtx/pr/mother-and-daughter-guilty-human-smuggling",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291226358",
+        "info": "Jose Yumang Sonza\nDOB - September 20, 1955",
+        "link1": "https://en.wikipedia.org/wiki/Jay_Sonza",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291231564",
+        "info": "Daniel Wright\nDaniel Alan Wright",
+        "link1": "https://www.5newsonline.com/article/news/crime/two-arkansas-child-torture-guilty-hundreds-charges-dropped/527-7fa19060-2015-45b6-9b87-7f436c9ea757",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291229924",
+        "info": "Alejandro González\n1991",
+        "link1": "https://cordopolis.eldiario.es/deportes/nuevo-consejo_1_7022435.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291229724",
+        "info": "Josh Cohen\nJoshua A. Cohen\nJune 25\nAge logic",
+        "link1": "https://www.linkedin.com/in/joshua-cohen-522baa20/",
+        "link2": "https://finance.yahoo.com/news/azrh-azure-holding-group-completes-181500819.html",
         "link3": ""
     }
 ]
