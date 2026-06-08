@@ -18480,7 +18480,7 @@
         "link3": "https://people.equilar.com/bio/person/antony-mitchell-mv-realty/1180537"
     },
     {
-        "gridId": "291068125",
+        "gridId": "291068125, 291173770",
         "info": "Name: FERNANDO GARCIA PARADA, DOB: 1998",
         "link1": "https://www.yahoo.com/news/us/articles/ms-13-gang-members-found-192115372.html",
         "link2": "",
@@ -18708,6 +18708,41 @@
         "info": "Dan Sheehan, image:",
         "link1": "https://www.goodvibezpresents.com/about/",
         "link2": "https://www.montereycountynow.com/news/local_news/after-a-failed-sale-of-cali-roots-to-a-big-producer-the-founder-sues-alleging/article_e8dc3831-7ba6-4a05-98d4-c545422d1abe.html",
+        "link3": ""
+    },
+    {
+        "gridId": "291229334",
+        "info": "Name: Héctor Rodríguez Ordoñez, YOB: 1981",
+        "link1": "https://www.infobae.com/mexico/2026/06/05/hombre-que-golpeo-a-anciano-que-pasaba-en-su-camino-en-la-cdmx-fue-detenido-con-droga/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291216283",
+        "info": "Name: Michael Proctor & Sean Goode",
+        "link1": "https://www.masslive.com/news/2026/06/newly-revealed-texts-from-police-may-upend-prosecutions-tied-to-key-investigator.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291228405",
+        "info": "Full Name: Bradley Gene Walker",
+        "link1": "https://www.cbc.ca/news/canada/top-court-restores-manslaughter-conviction-for-man-who-killed-spouse-1.707044",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291226972",
+        "info": "Name: Jose Jonathan Castillo, DOB: 1992",
+        "link1": "https://www.cbsnews.com/losangeles/news/machete-murders-angeles-national-forest-convictions-ms-13/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "291229724",
+        "info": "Name: Josh Cohen",
+        "link1": "https://www.mrt.com/business/oil/article/vision-oil-gas-texas-permian-acquisition-22085557.php",
+        "link2": "",
         "link3": ""
     }
 ]
