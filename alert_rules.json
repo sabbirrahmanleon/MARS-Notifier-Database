@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -466,5 +466,23 @@
         "keyword": "Firm Number: PF10008P",
         "message": "Alert only on HQ or exact subsidiary <br>\nGEO in-state/ bordering state",
         "position": "bottom-left"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "r-icon-person",
+        "fontSize": "18px",
+        "keyword": "Firm Number: BV02004P",
+        "message": "Only Alert on:\n• Parent organization and shareholders. \n• Exact subsidiary",
+        "position": "middle-left"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "Firm Number: BV02004P + \"PEP\"",
+        "message": "Do not alert on Aunts, Uncles, Nieces or Nephews",
+        "position": "middle-left"
     }
 ]
