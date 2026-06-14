@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -13,7 +13,7 @@
         "color": "#1565c0",
         "exception": "",
         "fontSize": "18px",
-        "keyword": "Firm Number: DB20040P, Firm Number: DB27000P, Firm Number: DB20051P, Firm Number: DB20041P, Firm Number: DB20042P, Firm Number: DB20048P",
+        "keyword": "Firm Number: DB20040P, Firm Number: DB27000P, Firm Number: DB20051P, Firm Number: DB20041P, Firm Number: DB20042P, Firm Number: DB20048P, Firm Number: DB20052P, Firm Number: DB20046P",
         "message": "Need Exact Company.<br>        \nClosed: ACT. FIM, FIL, DMS, ACQ<br>\nUnsure: CVT, SPD, SJT, SET",
         "position": "bottom-left"
     },
@@ -166,7 +166,7 @@
         "color": "#1565c0",
         "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
         "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + LEG /",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + LEG /",
         "message": "LEG: ONLY ALERT Federal House of Representative/Member of the Federal Senate",
         "position": "bottom-center"
     },
@@ -457,5 +457,14 @@
         "keyword": "Firm Number: MS + grandson, Firm Number: MS + granddaughter, Firm Number: MS + nephew, Firm Number: MS + niece, Firm Number: MS + uncle, Firm Number: MS + \"aunt\", Firm Number: MS + cousin",
         "message": "RISK NM",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#455a64",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: PF10008P",
+        "message": "Alert only on HQ or exact subsidiary <br>\nGEO in-state/ bordering state",
+        "position": "bottom-left"
     }
 ]
