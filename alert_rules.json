@@ -493,5 +493,23 @@
         "keyword": "Firm Number: PF10051P + \"PEP\" +  \"Nationality:\"",
         "message": "No RISK",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#455a64",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "img:flags/us.gif",
+        "message": "US Flag! <br>\nCheck Geo",
+        "position": "bottom-right"
+    },
+    {
+        "active": true,
+        "color": "#455a64",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "img:flags/mx.gif",
+        "message": "Mexican Flag! <br>\nCheck Geo",
+        "position": "bottom-right"
     }
 ]
