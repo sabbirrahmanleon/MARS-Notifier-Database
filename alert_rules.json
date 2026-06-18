@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -484,5 +484,14 @@
         "keyword": "Firm Number: BV02004P + \"PEP\"",
         "message": "Do not alert on Aunts, Uncles, Nieces or Nephews",
         "position": "middle-left"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: PF10051P + \"PEP\" +  \"Nationality:\"",
+        "message": "No RISK",
+        "position": "bottom-center"
     }
 ]
