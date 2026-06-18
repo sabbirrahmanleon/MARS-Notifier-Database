@@ -511,5 +511,14 @@
         "keyword": "img:flags/mx.gif",
         "message": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        .mexican-flag-highlight {\n            /* Creates the sharp green, white, and red vertical stripes */\n            background: linear-gradient(to right, #006847 33.33%, #FFFFFF 33.33%, #FFFFFF 66.66%, #CE1126 66.66%);\n            \n            /* Text styling for readability */\n            color: black;\n            font-weight: bold;\n            padding: 4px 8px;\n            border-radius: 4px;\n            border: 1px solid #ccc; /* Helps define the white stripe if on a white background */\n            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.9);\n        }\n    </style>\n</head>\n<body>\n\n    <span class=\"mexican-flag-highlight\">Mexican Flag!</span> <br>\n<br>    \nCheck Geo\n\n</body>\n</html>",
         "position": "bottom-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"LMD\" + \"#Hemp\"",
+        "message": "RISK NM",
+        "position": "bottom-center"
     }
 ]
