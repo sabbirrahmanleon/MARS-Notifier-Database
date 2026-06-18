@@ -500,7 +500,7 @@
         "exception": "r-icon-org",
         "fontSize": "18px",
         "keyword": "img:flags/us.gif",
-        "message": "US Flag! <br>\nCheck Geo",
+        "message": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        .us-flag-highlight {\n            /* \n               Layer 1 (Top): The blue canton (positioned top-left, 40% width, ~54% height for 7 stripes)\n               Layer 2 (Bottom): 13 repeating red and white stripes\n            */\n            background: \n                linear-gradient(#3C3B6E, #3C3B6E) left top / 40% 53.85% no-repeat,\n                repeating-linear-gradient(to bottom, #B22234 0%, #B22234 7.69%, #FFFFFF 7.69%, #FFFFFF 15.38%);\n            \n            /* Text styling */\n            color: white;\n            font-weight: bold;\n            font-size: 1.2rem;\n            padding: 12px 24px;\n            display: inline-block; /* Important: gives the span enough body to show off the flag pattern */\n            border: 1px solid #999;\n            border-radius: 4px;\n            \n            /* Heavy text shadow to ensure readability across the busy background */\n            text-shadow: 2px 2px 4px rgba(0, 0, 0, 1), 0px 0px 3px rgba(0, 0, 0, 0.8);\n        }\n    </style>\n</head>\n<body>\n\n    <span class=\"us-flag-highlight\">US Flag!</span> <br><br>\n<br>\n    Check Geo\n\n</body>\n</html>",
         "position": "bottom-right"
     },
     {
@@ -509,7 +509,7 @@
         "exception": "r-icon-org",
         "fontSize": "18px",
         "keyword": "img:flags/mx.gif",
-        "message": "Mexican Flag! <br>\nCheck Geo",
+        "message": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        .mexican-flag-highlight {\n            /* Creates the sharp green, white, and red vertical stripes */\n            background: linear-gradient(to right, #006847 33.33%, #FFFFFF 33.33%, #FFFFFF 66.66%, #CE1126 66.66%);\n            \n            /* Text styling for readability */\n            color: black;\n            font-weight: bold;\n            padding: 4px 8px;\n            border-radius: 4px;\n            border: 1px solid #ccc; /* Helps define the white stripe if on a white background */\n            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.9);\n        }\n    </style>\n</head>\n<body>\n\n    <span class=\"mexican-flag-highlight\">Mexican Flag!</span> <br>\n<br>    \nCheck Geo\n\n</body>\n</html>",
         "position": "bottom-right"
     }
 ]
