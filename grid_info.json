@@ -22610,13 +22610,6 @@
         "link3": ""
     },
     {
-        "gridId": "292554421",
-        "info": "Teddy Martin\nWillis, Tx",
-        "link1": "",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "292554788",
         "info": "Entity Name:\nADAM RICHARD WALKER\nAlias:\nAdam Walker\n1981",
         "link1": "https://www.canyon-news.com/uflacs-adam-walker-charged-with-grand-theft/",
@@ -22708,7 +22701,7 @@
         "link3": ""
     },
     {
-        "gridId": "292554667",
+        "gridId": "292554667, 292554299",
         "info": "Joshua Smith, Father DOB- 1968",
         "link1": "https://www.sec.gov/Archives/edgar/data/913341/000091334126000015/cffi-20260421xdef14a.htm",
         "link2": "",
@@ -22788,6 +22781,97 @@
         "gridId": "292451559",
         "info": "Entity Name: Stieve Leon Edgar Williams, 1998, inside Grid",
         "link1": "https://recentlybooked.com/ks/saline/stieve-williams~553_-183007",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292451499",
+        "info": "Sheikh Abdul Rasheed, 19 August 1967",
+        "link1": "https://en.bharatpedia.org/wiki/Sheikh_Abdul_Rashid",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292449710",
+        "info": "Luis A. Rohena Rivera, Luis Aramis Rohena Rivera, Date of Birth: 5/16/1987",
+        "link1": "https://waloradio.com/2022/12/19/fijan-millonaria-fianza-contra-presunto-miembro-de-la-pandilla-de-kikuet/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292638538",
+        "info": "Luis Rodriguez, Luis Nelson Rodriguez, 1993",
+        "link1": "https://papaosord.blogspot.com/2017/04/acaban-de-atrapar-en-texas-al-acusado.html",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292452026",
+        "info": "Sam Burgess, DOB- 2000",
+        "link1": "https://www.lancasterguardian.co.uk/news/national/lancaster-residents-among-hundreds-arrested-at-palestine-protests-8745608",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292554344",
+        "info": "Raymond Turner, geo : Beavercreek ,Greene County, Ohio, United States",
+        "link1": "https://www.xeniagazette.com/2016/10/21/turners-parents-vote-early/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292554383",
+        "info": "Entity Name: Larry Middleton, DOB: 1943, DEAD: 2014",
+        "link1": "https://www.baltimoresun.com/2014/01/11/ex-baltimore-heavyweight-larry-middleton-dead-at-71/#:~:text=Former%20Baltimore%20heavyweight%20contender%20Larry,1965%20and%20ended%20in%201978.",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292638617",
+        "info": "Marc Harrison, Finra reg: 12/1986",
+        "link1": "https://files.brokercheck.finra.org/individual/individual_1605568.pdf",
+        "link2": "https://www.silverlaw.com/blog/harrison-mezzatesta-reid-and-rudiger-cited-for-churning-and-excessively-trading-customer-accounts/",
+        "link3": ""
+    },
+    {
+        "gridId": "292554416",
+        "info": "Jordan Boyd, Wrong Relationship captured. Should be Daughter",
+        "link1": "https://medschool.vanderbilt.edu/wp-content/uploads/sites/7/public_files/Awards/Athena/ATHENA_Program_SinglePages_31418%5B1%5D.pdf",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292638454",
+        "info": "Israel Garcia-Vasquez, Alias: El Menor, MENOR, MENOL, DOB - 2002",
+        "link1": "https://www.justice.gov/usao-ma/pr/nearly-two-dozen-trinitarios-gang-members-charged-rico-conspiracy-state-leader-charged",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292554421",
+        "info": "Teddy Martin - Wilis, Texas",
+        "link1": "https://www.adamsfuneralsvc.com/obituary/patsy-martin#:~:text=Patsy%20is%20survived%20by%20her,Wellington;%20and%2013%20great%20grandchildren.",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292447830",
+        "info": "Adam Castillo - Adam M. Castillo",
+        "link1": "https://www.zoominfo.com/p/Adam-Castillo/4008681119",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292638508",
+        "info": "Alex Hanna, dob: 1994",
+        "link1": "https://www.wabi.tv/2025/03/06/man-sentenced-role-trafficking-drugs-mailed-california-downeast-maine/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "292554515",
+        "info": "Ben Peters, Dob- 1994",
+        "link1": "https://www.sandiegouniontribune.com/2014/05/09/guests-call-obama-relaxed-comfortable/",
         "link2": "",
         "link3": ""
     }
