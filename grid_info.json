@@ -26272,7 +26272,7 @@
     },
     {
         "gridId": "293791982",
-        "info": "Name: Mary Miller, GEO: Oakland, IL",
+        "info": "Name: Mary Miller,\nGEO: Oakland, IL",
         "link1": "",
         "link2": "",
         "link3": ""
@@ -26335,7 +26335,7 @@
     },
     {
         "gridId": "293760845",
-        "info": "Robert Simon, ROBERT BRADLEY SIMON, ROBERT B SIMON, urologist (practicing at least from 2002), via grid article",
+        "info": "Robert Simon,\nROBERT BRADLEY SIMON,\nROBERT B SIMON,\nurologist (practicing at least from 2002)",
         "link1": "https://www.justice.gov/usao-sdny/media/1449721/dl",
         "link2": "https://npiregistry.cms.hhs.gov/provider-view/1992901052",
         "link3": "https://health.usnews.com/doctors/robert-simon-2803167"
@@ -26394,6 +26394,83 @@
         "info": "William Chad Brown, DOB: 1977",
         "link1": "https://wpde.com/news/local/darlington-co-man-sentenced-to-prison-in-overdose-deaths",
         "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293760327",
+        "info": "Name: Pablo Berrios, DOB: 1973",
+        "link1": "https://collincountyda.com/da-greg-willis-announces-life-sentence-for-mckinney-man-who-murders-friend-in-new-hope/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293814057",
+        "info": "Entity Name: Ho Ho Ming, DOB: 31 Oct 1988",
+        "link1": "https://mrsanctions.com/2026/06/24/june-23-2026-ofac-update-part-1-cuba-and-tco-designations-russia-removals/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293761406",
+        "info": "Entity Name: Mark Johnson, DOB: 1989",
+        "link1": "https://myfox8.com/news/north-carolina/greensboro/former-page-high-school-teacher-assistant-coach-charged-with-child-sex-crimes-court-records/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293815711",
+        "info": "Name: William Bell, Alias: Willis “June” Bell, Age: 49, GEO: Jamaica, Alias: Willis N Bell, Born August 1975",
+        "link1": "https://qns.com/2026/06/ten-indicted-drug-trafficking-southeast-queens/",
+        "link2": "https://www.truepeoplesearch.com/find/person/pxnn0l682n649u4r42u0",
+        "link3": ""
+    },
+    {
+        "gridId": "293792864",
+        "info": "Entity Name: Amit Kumar Singhl, Age Logic: Senior Indian Revenue Service Officer 2007 batch",
+        "link1": "https://www.caalley.com/news-updates/indian-news/cbi-arrests-top-irs-officer-amit-kumar-singal-for-accepting-bribe-of-25-lakh",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293814059",
+        "info": "Entity Name: Li Hui, DOB: 11 Jan 2001",
+        "link1": "https://ofac.treasury.gov/recent-actions/20260623",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293788453",
+        "info": "Entity Name: Alan Buerger, AKA: Alan H. Buerger, DOB Logic:",
+        "link1": "https://www.linkedin.com/in/alan-h-buerger/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293791794",
+        "info": "Name: Eric Lau, DOB: 1992",
+        "link1": "",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293761243",
+        "info": "Name: Qi Wang, DOB: 1973",
+        "link1": "https://www.cbc.ca/news/canada/saskatchewan/qi-wang-immigration-fraud-tax-evasion-9.7248907",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293814062",
+        "info": "Name: Chen Bo, DOB: 05 Sep 1982",
+        "link1": "https://public-inspection.federalregister.gov/2026-12916.pdf",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "293814060",
+        "info": "Entity Name: Hu Xiaowei, DOB: 01 May 1982",
+        "link1": "https://mrsanctions.com/2026/06/24/june-23-2026-ofac-update-part-1-cuba-and-tco-designations-russia-removals/",
+        "link2": "https://www.opensanctions.org/entities/NK-esnPwePJ45fnz59UrmzDcc/",
         "link3": ""
     }
 ]
