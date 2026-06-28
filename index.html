@@ -93,7 +93,7 @@
             2. EXPLICITLY IGNORE all 10-digit numbers (e.g., 1106711736).
             3. EXPLICITLY IGNORE all 9-digit numbers that begin with "5" (e.g., 581724089).
             4. If a thread contains multiple valid gridIds, create a separate JSON object for EACH one.
-            5. Carefully match the correct information (Name, DOB, Alias, Deceased dates, GEO) to the correct gridId based on the text layout. Combine these details into a single "info" string, but MUST format it with line breaks (\\n) between each distinct category so they appear on separate lines (e.g., "Entity Name: X\\nAlias: Y\\nDOB: Z"). Do not combine them onto one long line.
+            5. Combine the details (Name, DOB, Alias, Deceased dates, GEO) for each gridId into a single "info" string. You MUST separate each distinct piece of information using the literal JSON newline character (\\n). DO NOT use commas to separate them. Example of the EXACT required output format: "Name: John Doe\\nDOB: 1989\\nGEO: USA".
             6. Extract URLs into "link1", "link2", and "link3". If there are fewer than 3 links, make the remaining ones empty strings "". Ensure the links are matched to the correct gridId.
             7. Return ONLY a valid JSON array. Do not include markdown formatting or explanations.
             
