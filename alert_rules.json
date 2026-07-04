@@ -520,5 +520,14 @@
         "keyword": "Firm Number: MS + \"LMD\" + \"#Hemp\"",
         "message": "RISK NM",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: VM01004P + \"PEP\"",
+        "message": "PEP Unlimited",
+        "position": "middle-right"
     }
 ]
