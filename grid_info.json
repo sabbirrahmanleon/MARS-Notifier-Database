@@ -33321,8 +33321,43 @@
     },
     {
         "gridId": "294560653",
-        "info": "Name: James Murphy\nAlias: James Anthony Murphy",
+        "info": "Name: James Anthony Murphy\nAlias: James Murphy\nGEO: Sioux Falls",
         "link1": "https://www.justice.gov/usao-sd/pr/sioux-falls-man-sentenced-use-interstate-facilities-transmit-information-about-minor",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294502648",
+        "info": "Name: Mohammed Shahid Faisal\nDOB: 1984\nGEO: Bengaluru",
+        "link1": "https://indianexpress.com/article/cities/bangalore/mohammed-shahid-faisal-mha-designated-terrorist-uapa-bengaluru-10774329/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294503104",
+        "info": "Name: Mohammad Shafi Malik\nDOB: 1975",
+        "link1": "",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294487838",
+        "info": "Name: Muhammad Awais\nDOB: 1981",
+        "link1": "https://www.emaratalyoum.com/politics/news/2021-11-25-1.1566839",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294506836",
+        "info": "Name: Terry Brown\nDOB: 1983\nGEO: Croydon",
+        "link1": "https://www.yourlocalguardian.co.uk/news/24246572.owner-illegal-croydon-tattoo-studios-fined-nearly-7-000/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294506634",
+        "info": "Name: Jamie Lynn Johnson\nAlias: Jamie Johnson\nGEO: St. Johns County",
+        "link1": "https://floridapolitics.com/archives/806022-st-johns-county-commissioners-charged-in-fake-endorsement-scheme/",
         "link2": "",
         "link3": ""
     }
