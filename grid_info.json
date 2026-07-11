@@ -18676,7 +18676,7 @@
         "link3": ""
     },
     {
-        "gridId": "291074564",
+        "gridId": "291074564, 294613860",
         "info": "Entity Name: Mohammed Ahmad, Alias: Abu Omar, dob LOGIC - daughter DOB -1995",
         "link1": "https://www.1news.co.nz/2026/06/05/witness-tells-australian-court-she-was-enslaved-raped-in-is-home-in-syria/",
         "link2": "",
@@ -34090,13 +34090,6 @@
         "link3": ""
     },
     {
-        "gridId": "294635741",
-        "info": "Name: Gurpreet Singh\nDOB: 2000",
-        "link1": "https://www.indystar.com/story/news/crime/2026/07/09/man-arrested-in-greenwood-amid-national-organized-crime-crackdown-bhagwanpuria-hard-ball-singh-bal/90850988007/",
-        "link2": "",
-        "link3": ""
-    },
-    {
         "gridId": "294827866",
         "info": "Name: Jorge GONZALEZ QUIONES\nDOB: 1957-09-04",
         "link1": "https://www.opensanctions.org/entities/NK-h8s58z8kVaGKesbiytBTrQ/",
@@ -34247,6 +34240,41 @@
         "gridId": "294790834",
         "info": "Name: Lisa Gay Lewis\nAlias: Coddington, Lisa G., Dickerson, Lisa G., Lisa G. Goblington\nDOB: 1966",
         "link1": "https://www.whitepages.com/checkout/search?wp_term=BGReport&wp_content=HeaderLink&wp_source=person_details&wp_medium=PersonContactInfoUpsell&funnelType=bg_onepages_1&wpId=PbyPWxAQO90",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294719721",
+        "info": "Name: Tahir Hamid KHALIL\nDOB: 3 Jul 1955",
+        "link1": "https://www.seco.admin.ch/dam/de/sd-web/H8aDXVZFUVPG/Syrie_2026-06-16.pdf",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294827581",
+        "info": "",
+        "link1": "",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294730677",
+        "info": "Name: Johnny Campos-Coelho\nDOB: 1963",
+        "link1": "https://fox56.com/news/local/state-police-search-for-homicide-by-vehicle-suspect",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294617871",
+        "info": "Name: Lilian Leyton\nAlias: Lilian Leyton Varela",
+        "link1": "https://anl.cl/team/lilian-leyton-varela/",
+        "link2": "",
+        "link3": ""
+    },
+    {
+        "gridId": "294730119",
+        "info": "Name: Li Ming\nDOB: 1974",
+        "link1": "",
         "link2": "",
         "link3": ""
     }
