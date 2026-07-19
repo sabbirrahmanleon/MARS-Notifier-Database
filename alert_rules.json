@@ -20,10 +20,10 @@
     {
         "active": true,
         "color": "#1565c0",
-        "exception": "",
+        "exception": "r-icon-org",
         "fontSize": "18px",
         "keyword": "Firm Number: LP01005P",
-        "message": "MLA 50/100<br>\nForeign PEP unlimited GEO<br>\nFinancial Crime Only",
+        "message": "MLA 50/100<br>\nFinancial Crime Only",
         "position": "middle-left"
     },
     {
@@ -538,5 +538,14 @@
         "keyword": "Firm Number: BJ10000P + r-icon-person",
         "message": "Trest Spanish names like Anglo Names",
         "position": "bottom-left"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "r-icon-org, img:flags/us.gif",
+        "fontSize": "22px",
+        "keyword": "Firm Number: LP01005P + \"PEP\"",
+        "message": "Foreign PEP Unlimited Geo",
+        "position": "middle-right"
     }
 ]
