@@ -50408,7 +50408,7 @@
         "timestamp": 1785418707371
     },
     {
-        "gridId": "296240897",
+        "gridId": "296240897, 296345149",
         "info": "Name: Max Anderson\nAlias: Mac Martin Anderson\nDOB: 1966",
         "link1": "https://ktla.com/news/corona-man-sentenced-for-1-2m-stan-lee-tax-fraud-scheme/",
         "link2": "",
@@ -51521,7 +51521,7 @@
     },
     {
         "gridId": "296401870",
-        "info": "Name: José Antonio Huerta\nAlias: José Antonio Cortés Huerta",
+        "info": "Name: José Antonio Huerta\nAlias: José Antonio Cortés Huerta\nborn in 1987",
         "link1": "https://www.elimparcial.com/mexico/2026/07/15/aunque-la-4t-presumio-la-captura-de-el-titan-en-un-operativo-contra-el-huachicol-una-jueza-lo-libero-dos-meses-despues-tras-detectar-irregularidades-en-los-cateos-y-falta-de-pruebas-suficientes/",
         "link2": "",
         "link3": "",
@@ -51934,5 +51934,141 @@
         "link2": "https://en.philenews.com/local/mohammed-saiful-alam-cyprus-golden-passport-asset-freeze-bangladesh-investigation-live/",
         "link3": "",
         "timestamp": 1785573863548
+    },
+    {
+        "gridId": "296649302",
+        "info": "Name: Wu Jie\nDOB: May 1968",
+        "link1": "https://baike.baidu.com/item/%E5%90%B4%E6%B4%81/18733569",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296431277",
+        "info": "Name: Robert O'Brien\nDOB: 12-06-1977",
+        "link1": "https://www.minicounsel.ca/scj/2026/2889",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296512432",
+        "info": "Name: Sheikh Muhammad Maruf Hasan\nDOB: 1989",
+        "link1": "https://www.psc.gov.bd/storage/app/media/25-psc-newsletter-sep-dec-2020.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296487635",
+        "info": "Name: Joana Dominguez Aguilera\nDOB: 22 Oct 1981",
+        "link1": "https://ofac.treasury.gov/recent-actions/20260723",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296592888",
+        "info": "Name: Ian Patrick Jackson\nDOB: 1988",
+        "link1": "https://www.yahoo.com/news/atlanta-man-charged-stealing-3m-102402102.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296555730",
+        "info": "Name: Mohammad Hamid Mandal\nDOB: 2003",
+        "link1": "https://www.theweek.in/news/india/2026/07/31/burdwan-what-we-know-so-far-about-hamid-mondol-jem-terrorist-arrested-by-stf.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296560673",
+        "info": "Name: David Brown\nDOB: 1976",
+        "link1": "https://www.bbc.com/news/articles/cjrggzx14r5o",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296487654",
+        "info": "Name: Liliana Cisneros Tapia\nDOB: 1980-11-09",
+        "link1": "https://www.opensanctions.org/entities/NK-Aq89F68qboVoJfxMz4EJGS/",
+        "link2": "https://ofac.treasury.gov/recent-actions/20260723",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296557640",
+        "info": "Name: Anthony Smith\nDOB: 1988",
+        "link1": "https://wchstv.com/news/nation-world/ufc-veteran-anthony-smith-arrested-in-nebraska-on-3-felony-charges",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296557149",
+        "info": "Name: Anthony Smith\nDOB: 1988",
+        "link1": "https://wchstv.com/news/nation-world/ufc-veteran-anthony-smith-arrested-in-nebraska-on-3-felony-charges",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582556412
+    },
+    {
+        "gridId": "296461982",
+        "info": "Name: WANG QUAN\nDOB: 1974",
+        "link1": "https://ca.finance.yahoo.com/quote/3616.HK/profile/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
+    },
+    {
+        "gridId": "296487424",
+        "info": "Name: Osiel CARDENAS TUILLEN\nAlias: Oscar CARDENAS GUILLEN\nDOB: 1967-05-18",
+        "link1": "https://www.opensanctions.org/entities/Q982861/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
+    },
+    {
+        "gridId": "296346330",
+        "info": "Name: José Angel González\nAlias: Jose Angel Gonzalez TAUSZ\nDOB: 1976",
+        "link1": "https://www.linkedin.com/in/jose-angel-gonzalez-tausz-07b516242/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
+    },
+    {
+        "gridId": "296348478",
+        "info": "Name: Gerardo Martinez\nDOB: 1972-12-09",
+        "link1": "https://newsroom.gy/2026/07/29/venezuelan-colombian-charged-after-55-kg-cocaine-found-in-vehicle-at-providence/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
+    },
+    {
+        "gridId": "296394750",
+        "info": "Name: Natalia Lopez\nAlias: Natalia López Fuentes",
+        "link1": "https://pedrobonett.com/articulo-natalia-lopez-en.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
+    },
+    {
+        "gridId": "296395040",
+        "info": "Name: Oscar Gonzales\nDOB: 1968",
+        "link1": "https://www.gov.ca.gov/2019/09/10/governor-newsom-announces-appointments-9-10-19/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
+    },
+    {
+        "gridId": "296638361",
+        "info": "Name: Sue Bennett",
+        "link1": "https://www.croydonconservatives.com/people/sue-bennett",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1785582586347
     }
 ]
