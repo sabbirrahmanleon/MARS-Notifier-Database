@@ -547,5 +547,14 @@
         "keyword": "Firm Number: LP01005P + \"PEP\"",
         "message": "Foreign PEP Unlimited Geo",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#2e7d32",
+        "exception": "Total Records: 1",
+        "fontSize": "18px",
+        "keyword": "Search Type: Look + \"WLT\"",
+        "message": "Multiple Grids",
+        "position": "bottom-center"
     }
 ]
