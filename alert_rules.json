@@ -556,5 +556,14 @@
         "keyword": "Search Type: Look + \"WLT\"",
         "message": "Multiple Grids",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "Firm Number: BH01000P, Firm Number: BM02000P",
+        "message": "Only match exact alias matching to inquiry",
+        "position": "bottom-center"
     }
 ]
