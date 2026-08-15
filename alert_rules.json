@@ -565,5 +565,23 @@
         "keyword": "Firm Number: BH01000P, Firm Number: BM02000P",
         "message": "Only match exact alias matching to inquiry",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#ef6c00",
+        "exception": "r-icon-person",
+        "fontSize": "18px",
+        "keyword": "Firm Number: EH01005P",
+        "message": "Orgs: IN COUNTRY only",
+        "position": "bottom-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "r-icon-org",
+        "fontSize": "18px",
+        "keyword": "Firm Number: EJ01004P + \"MLA\"",
+        "message": "MLA = 1000 Miles",
+        "position": "middle-right"
     }
 ]
