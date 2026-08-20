@@ -63152,14 +63152,6 @@
         "timestamp": 1787238316642
     },
     {
-        "gridId": "297781246",
-        "info": "Entity Name: Paul Russo\nFull Name: Paul R. Russo\nDOB: 1976",
-        "link1": "https://www.marketscreener.com/insider/PAUL-RUSSO-A1PY3M/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787238316642
-    },
-    {
         "gridId": "297941554",
         "info": "Name: Michael Novak\nDOB: 1998",
         "link1": "https://www.ideastream.org/community/2024-09-13/heres-what-we-know-about-the-akron-police-officers-involved-in-fatal-u-haul-shooting",
@@ -63171,46 +63163,6 @@
         "gridId": "297943764",
         "info": "Name: Thomas Robinson\nDOB: 2003",
         "link1": "https://www.nbcphiladelphia.com/news/local/2-penn-state-students-charged-in-cocaine-ring-from-philly-region-court-docs/4450707/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787238316642
-    },
-    {
-        "gridId": "297785015",
-        "info": "Entity Name: Liam Smith\nDOB: 2003",
-        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787238316642
-    },
-    {
-        "gridId": "297783610",
-        "info": "Entity Name: Liam Smith\nDOB: 2003",
-        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787238316642
-    },
-    {
-        "gridId": "297783387",
-        "info": "Entity Name: Liam Smith\nDOB: 2003",
-        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787238316642
-    },
-    {
-        "gridId": "297783298",
-        "info": "Entity Name: Liam Smith\nDOB: 2003",
-        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787238316642
-    },
-    {
-        "gridId": "297782943",
-        "info": "Entity Name: Liam Smith\nDOB: 2003",
-        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
         "link2": "",
         "link3": "",
         "timestamp": 1787238316642
@@ -63230,5 +63182,45 @@
         "link2": "",
         "link3": "",
         "timestamp": 1787238316642
+    },
+    {
+        "gridId": "297781246",
+        "info": "Name: Paul Russo\nFull Name: Paul R. Russo\nYOB: 1976",
+        "link1": "https://www.marketscreener.com/insider/PAUL-RUSSO-A1PY3M/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787241505960
+    },
+    {
+        "gridId": "297785015",
+        "info": "Name: Liam Smith\nYOB: 2003",
+        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787241505960
+    },
+    {
+        "gridId": "297783610",
+        "info": "Name: Liam Smith\nYOB: 2003",
+        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787241505960
+    },
+    {
+        "gridId": "297783298",
+        "info": "Name: Liam Smith\nYOB: 2003",
+        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787241505960
+    },
+    {
+        "gridId": "297782943",
+        "info": "Name: Liam Smith\nYOB: 2003",
+        "link1": "https://www.fox43.com/article/news/regional/penn-state-university-fraternities-cocaine-trafficking-ring-allegations-revealed/521-5264b8e3-83e5-4382-a660-bb8b7336a3d1",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787241505960
     }
 ]
