@@ -62345,7 +62345,7 @@
     },
     {
         "gridId": "297790134",
-        "info": "Name: JP MORGAN CHASE AND COMPANY",
+        "info": "Name: JP MORGAN CHASE AND COMPANY\nNRSK",
         "link1": "",
         "link2": "",
         "link3": "",
@@ -62537,7 +62537,7 @@
     },
     {
         "gridId": "298016171",
-        "info": "Name: Jose Francisco Garcia-Cervantes",
+        "info": "Name: Jose Francisco Garcia-Cervantes\nNRSK",
         "link1": "",
         "link2": "",
         "link3": "",
@@ -62601,7 +62601,7 @@
     },
     {
         "gridId": "298016177",
-        "info": "Name: Ricardo Rodriguez-Sotelo",
+        "info": "Name: Ricardo Rodriguez-Sotelo\nNRSK",
         "link1": "",
         "link2": "",
         "link3": "",
@@ -62942,5 +62942,61 @@
         "link2": "",
         "link3": "",
         "timestamp": 1787210190956
+    },
+    {
+        "gridId": "298016180",
+        "info": "Name: Julio César Gómez Mendoza",
+        "link1": "https://www.eluniversal.com.mx/mundo/chandler-britain-bradford-es-declarado-culpable-en-eu-por-trafico-de-armas-lo-vinculan-con-carteles-mexicanos/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787216149078
+    },
+    {
+        "gridId": "297785765",
+        "info": "Name: Rajeev Gupta",
+        "link1": "https://www.linkedin.com/in/rajiv-gupta-1a7b5153/",
+        "link2": "https://www.crunchbase.com/person/rajeev-gupta-46f9",
+        "link3": "",
+        "timestamp": 1787216149078
+    },
+    {
+        "gridId": "297902561",
+        "info": "Name: A. Rahman\nDOB: 2003",
+        "link1": "https://jogajogbd.com/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7-4/#google_vignette",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787218030643
+    },
+    {
+        "gridId": "297780327",
+        "info": "Name: Zachary Slater\nAlias: Zachary M. Slater",
+        "link1": "https://www.njspotlightnews.org/2015/04/rocking-out-for-a-good-cause/",
+        "link2": "https://www.shorenewsnetwork.com/fbi-investigating-ocvts-sexual-abuse-scandal-as-probe-expands-into-alleged-institutional-cover-up/#google_vignette",
+        "link3": "",
+        "timestamp": 1787218030643
+    },
+    {
+        "gridId": "297784949",
+        "info": "Name: Juan Pérez Moral\nDOB: 1966",
+        "link1": "https://www.tvazteca.com/aztecanoticias/detienen-a-presidente-municipal-tianguismanalco-puebla-que-paso-juan-perez-moral/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787218030643
+    },
+    {
+        "gridId": "297784412",
+        "info": "Name: Juan Pérez Moral\nDOB: 1966",
+        "link1": "https://www.tvazteca.com/aztecanoticias/detienen-a-presidente-municipal-tianguismanalco-puebla-que-paso-juan-perez-moral/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787218030643
+    },
+    {
+        "gridId": "297786664",
+        "info": "Name: Robert Bobby Gray\nAlias: Robert J. “Bobby” Gray",
+        "link1": "https://www.tpr.org/economy-and-labor/2026-08-14/texas-regulators-prepare-fraud-case-against-texitcoin-as-founder-denies-wrongdoing",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787218030643
     }
 ]
