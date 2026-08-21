@@ -110,7 +110,7 @@
     {
         "active": true,
         "color": "#b71c1c",
-        "exception": "REG / L",
+        "exception": "REG / L, Firm Number: RJ01005P",
         "fontSize": "18px",
         "keyword": "Firm Number: RJ + \"REG\" + r-icon-person",
         "message": "Only alert if $5,000 fine",
