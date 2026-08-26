@@ -65737,9 +65737,9 @@
     },
     {
         "gridId": "298451590",
-        "info": "Name: Christin Clark",
+        "info": "Name: Christin Clark\nFather's yob : July 12, 1961\nSoda Springs, Idaho",
         "link1": "https://en.wikipedia.org/wiki/Trent_Clark_(politician)",
-        "link2": "",
+        "link2": "https://www.findagrave.com/memorial/26313639/brittany-clark",
         "link3": "",
         "timestamp": 1787638372474
     },
@@ -67016,14 +67016,6 @@
         "timestamp": 1787722710762
     },
     {
-        "gridId": "298452400",
-        "info": "Name: Theodore j Lee\nDOB: Sept. 1, 1937\nDeceased: May 4, 2022",
-        "link1": "https://www.leesfuneralhome.com/obituaries/theodore-jr",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787722710762
-    },
-    {
         "gridId": "298540091",
         "info": "Name: David Bass\nDOB: May 20, 1949",
         "link1": "https://www.simsfuneralhome.net/obituary/david-bass",
@@ -67110,5 +67102,101 @@
         "link2": "",
         "link3": "",
         "timestamp": 1787733717742
+    },
+    {
+        "gridId": "298538146",
+        "info": "Name: Alex Walsh\nAlias: Alex E. Walsh",
+        "link1": "https://www.dairyfoods.com/articles/96501-northeast-dairy-foods-and-suppliers-associations-names-new-executive-director",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298563981",
+        "info": "Name: Mohammed Ahmed\nAlias: Mohammed Rumen Ahmed",
+        "link1": "https://www.bbc.com/news/articles/cwyqd4992p9o",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298454315",
+        "info": "Name: Scott Morris\nAlias: Scott A. Morris",
+        "link1": "https://www.foreign.senate.gov/imo/media/doc/112718_Morris_Testimony.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298450109",
+        "info": "Name: Anthony Ogbizi Michael\nAlias: Anthony Michael Ogbizi",
+        "link1": "https://freshangleng.com/6036/michael-takes-over-as-delta-police-boss",
+        "link2": "https://www.asabametro.com/change-of-guard-delta-state-police-command-gets-new-commissioner-of-police/",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298452353",
+        "info": "Name: Mary Carter",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298451983",
+        "info": "Name: Barbara Butts Williams\nDOB: 1948",
+        "link1": "https://people.equilar.com/bio/person/barbara-butts-williams-allina-health/18092945",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298567791",
+        "info": "Name: Md Farooq\nDOB: 2005",
+        "link1": "https://dailyebnews24.com/%E0%A6%B2%E0%A6%AC%E0%A6%A3%E0%A6%9A%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%9E%E0%A6%9A%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%AB%E0%A6%BC%E0%A6%B2/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298547912",
+        "info": "Name: Mohamed Saad El-Katatni\nDOB: 1952",
+        "link1": "https://www.cfr.org/articles/who-are-muslim-brothers",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298452400",
+        "info": "Name: Theodore Lee\nAlias: Theodore Jay Lee, Jr.\nDOB: Sep 1, 1937\nDeceased: May 4, 2022",
+        "link1": "https://www.leesfuneralhome.com/obituaries/theodore-jr",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298488161",
+        "info": "Name: Keven Maurell Brown",
+        "link1": "https://nowgeorgia.com/convicted-killer-sentenced-for-2023-murder-in-columbus/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298451177",
+        "info": "Name: Jim Mullen\nAlias: James A. Mullen",
+        "link1": "https://www.legistorm.com/person/bio/267056/James_A_Mullen.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
+    },
+    {
+        "gridId": "298485815",
+        "info": "Name: Robert Lambert\nAlias: Robert Lloyd Lambert\nDOB: 1943",
+        "link1": "https://ottawacitizen.com/feature/smiths-falls-mystery",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787734738776
     }
 ]
