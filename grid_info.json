@@ -65625,9 +65625,9 @@
     },
     {
         "gridId": "298454865",
-        "info": "Name: Michael Davis\nDOB: 1993",
+        "info": "Name: Michael Davis\nDOB: 1993\nEmerson Street NW, Washington, DC",
         "link1": "https://www.dailymail.com/news/article-9668445/Vernon-Davis-opens-death-mother-years-reconnected.html",
-        "link2": "",
+        "link2": "https://wjla.com/news/local/michael-davis-arrested-in-petworth-attacks-75359",
         "link3": "",
         "timestamp": 1787627616716
     },
@@ -66131,14 +66131,6 @@
         "gridId": "298452816",
         "info": "Name: Patricia Grimes Short\nGEO: Greenville, NC",
         "link1": "https://www.legacy.com/us/obituaries/omaha/name/bennie-moore-obituary?id=5351487",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787655011769
-    },
-    {
-        "gridId": "298454208",
-        "info": "Name: Thomas Powers\nDOB: 1932\nDeceased: Aug. 29, 2011",
-        "link1": "https://www.communityadvocate.com/obituaries/thomas-w-powers-79/article_31a93c10-6187-596a-ad54-7cfe4c5c6edb.html",
         "link2": "",
         "link3": "",
         "timestamp": 1787655011769
@@ -67254,5 +67246,77 @@
         "link2": "",
         "link3": "",
         "timestamp": 1787737818187
+    },
+    {
+        "gridId": "298451898",
+        "info": "Name: Terrance C Cole\nFull Name: Terrance Christopher Cole\nDOB: August 17, 1969",
+        "link1": "https://en.wikipedia.org/wiki/Terry_Cole_(law_enforcement_official)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787739156796
+    },
+    {
+        "gridId": "298486093",
+        "info": "Name: Anne Newland\nAlias: ANNE M NEWLAND",
+        "link1": "https://npiregistry.cms.hhs.gov/provider-view/1750691788",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787739156796
+    },
+    {
+        "gridId": "298451632",
+        "info": "Name: Thomas Freeman\nDeceased: before 2018",
+        "link1": "https://www.congress.gov/115/crec/2018/07/10/modified/CREC-2018-07-10-pt1-PgS4874-2.htm",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298454208",
+        "info": "Name: Thomas Powers\nAlias: Thomas W. Powers\nDOB: August 20, 1932\nDeceased: August 29, 2011",
+        "link1": "https://www.legacy.com/us/obituaries/telegram/name/thomas-powers-obituary?id=11965650",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298540592",
+        "info": "Name: Molly C Campbell\nDOB: 1961",
+        "link1": "https://www.marketscreener.com/insider/MOLLY-CAMPBELL-A1QXIO/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298452840",
+        "info": "Name: Gary Lackey Jr\nGEO: Decatur, GA",
+        "link1": "https://obits.postandcourier.com/us/obituaries/charleston/name/gary-lackey-obituary?id=17861528",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298455158",
+        "info": "Name: Mike Dunleavy\nAlias: Michael James Dunleavy\nDOB: May 5, 1961",
+        "link1": "https://en.wikipedia.org/wiki/Mike_Dunleavy_(politician)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298455349",
+        "info": "Name: Jaisohn Kim\nGEO: Fairfax County, VA",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298455581",
+        "info": "Name: Mary Gilbert",
+        "link1": "https://www.hinesvillefuneralhome.com/obituaries/6104176",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787742690250
     }
 ]
