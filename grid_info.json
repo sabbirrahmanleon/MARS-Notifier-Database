@@ -65817,7 +65817,7 @@
     },
     {
         "gridId": "298454403",
-        "info": "Name: Maria Smith",
+        "info": "Name: Maria Smith\nFather's DOB: April 26, 1925",
         "link1": "https://www.browncolonialmortuary.net/obituary/Edgar-Smith",
         "link2": "",
         "link3": "",
@@ -65833,7 +65833,7 @@
     },
     {
         "gridId": "298454406",
-        "info": "Name: Kathy Smith",
+        "info": "Name: Kathy Smith\nAge Logic: minimum 60yrs at 2013 (before 1953)",
         "link1": "https://www.ocregister.com/obituaries/timothy-eugene-smith-santa-ana-ca/",
         "link2": "",
         "link3": "",
@@ -67318,5 +67318,29 @@
         "link2": "",
         "link3": "",
         "timestamp": 1787742690250
+    },
+    {
+        "gridId": "298491854",
+        "info": "Name: Adam Taylor\nDOB: 11/26/2002",
+        "link1": "https://www.gmp.police.uk/news/greater-manchester/news/news/2026/august/self-proclaimed-cocaine-artist-sees-his-drugs-network-brought-down-following-organised-crime-investigation/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787746765576
+    },
+    {
+        "gridId": "298452289",
+        "info": "Name: Matt Van Daele\nGEO: Alaska",
+        "link1": "https://resources.rdc.com/entity-source-pdf-storage/pep-pdf/2368-149426960-1028386696.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787746765576
+    },
+    {
+        "gridId": "298454598",
+        "info": "Name: Newman Warren Hess\nDOB: November 18, 1948\nGEO: Connecticut",
+        "link1": "https://www.reelectmayorpete.com/meet-mayor-pete-hess",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787746805409
     }
 ]
