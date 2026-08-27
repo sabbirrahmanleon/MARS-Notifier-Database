@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -583,5 +583,14 @@
         "keyword": "Firm Number: EJ01004P + \"MLA\"",
         "message": "MLA = 1000 Miles",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS25000P + \"PEP\"",
+        "message": "Only return PEP/FAM alerts that contain at least one of the below three identifiers:<br>\n• DOB<br>\n• YOB<br>\n• Full Address (City/State/Country)",
+        "position": "bottom-center"
     }
 ]
