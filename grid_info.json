@@ -68584,14 +68584,6 @@
         "timestamp": 1787880958365
     },
     {
-        "gridId": "298541692",
-        "info": "Name: Mary Ann\nGEO: Florida\nAlias: Mary Ann E. DeMeo",
-        "link1": "https://www.legacy.com/us/obituaries/fltimes/name/anthony-demeo-obituary?id=23973356",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787880958365
-    },
-    {
         "gridId": "298540928",
         "info": "Name: Michelle N Jackson\nAlias: Michelle Natalie Jackson\nGEO: Annapolis, Maryland",
         "link1": "https://rauschfuneralhomes.com/service/thomas-lee-tommy-jackson/",
@@ -68728,14 +68720,6 @@
         "timestamp": 1787890302058
     },
     {
-        "gridId": "298538797",
-        "info": "Name: Andrew Wright",
-        "link1": "https://www.linkedin.com/in/andrew-wright-2429871b1/",
-        "link2": "https://www.linkedin.com/posts/andrew-wright-2429871b1_big-congratulations-to-my-dad-david-wright-activity-7302822662433656832-FPHv/",
-        "link3": "",
-        "timestamp": 1787890302058
-    },
-    {
         "gridId": "298681498",
         "info": "Name: James Powell\nDOB: 1985",
         "link1": "https://www.k105.com/2026/08/25/shelby-co-teacher-faces-over-3-dozen-child-porn-charges/",
@@ -68747,14 +68731,6 @@
         "gridId": "298786750",
         "info": "Name: Andre Trott\nDOB: 1973",
         "link1": "https://www.trentonian.com/2026/07/14/former-trenton-health-worker-gets-probation-in-time-theft-case/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787890302058
-    },
-    {
-        "gridId": "298681377",
-        "info": "Name: Stephen Walker\nDOB: 1969",
-        "link1": "https://www.marketscreener.com/insider/STEPHEN-WALKER-A0FGHR/",
         "link2": "",
         "link3": "",
         "timestamp": 1787890302058
@@ -68888,19 +68864,219 @@
         "timestamp": 1787890302058
     },
     {
-        "gridId": "298680130",
-        "info": "Name: William Lawrence",
-        "link1": "https://www.foxnews.com/politics/michigan-dem-candidates-2013-arrest-resurfaces-pivotal-race-control-congress",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1787890302058
-    },
-    {
         "gridId": "298759172",
         "info": "Name: Nguyễn Tuấn Anh\nDOB: 1990",
         "link1": "https://congan.com.vn/vu-an/phong-chong-ma-tuy/xet-xu-chuyen-an-ma-tuy-vn10-nguoi-mau-an-tay-bi-de-nghi-2-3-nam-tu-ca-si-chi-dan-7-8-nam-tu_196916.html",
         "link2": "",
         "link3": "",
         "timestamp": 1787890302058
+    },
+    {
+        "gridId": "298541692",
+        "info": "Name: Mary Ann\nAlias: Mary Ann E. DeMeo\nGEO: Florida",
+        "link1": "https://www.legacy.com/us/obituaries/fltimes/name/anthony-demeo-obituary?id=23973356",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298541148",
+        "info": "Name: Michael Gonzalez",
+        "link1": "https://www.nashvillescene.com/news/pithinthewind/why-lizzette-reynolds/article_6c89b3c6-d975-11ee-8f54-93ceb972a639.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298541147",
+        "info": "Name: Jennifer Gonzalez Broadt",
+        "link1": "https://www.nashvillescene.com/news/pithinthewind/why-lizzette-reynolds/article_6c89b3c6-d975-11ee-8f54-93ceb972a639.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298539936",
+        "info": "Name: Michael Adams",
+        "link1": "https://www.texasmonthly.com/news-politics/biden-science-technology-council/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298539937",
+        "info": "Name: John Adams",
+        "link1": "https://www.texasmonthly.com/news-politics/biden-science-technology-council/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298539934",
+        "info": "Name: David Adams",
+        "link1": "https://www.texasmonthly.com/news-politics/biden-science-technology-council/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298538797",
+        "info": "Name: Andrew Wright\nAlias: Andrew F Wright",
+        "link1": "https://directory.midlandstech.edu/publicdirectory",
+        "link2": "https://www.linkedin.com/in/andrew-wright-2429871b1/",
+        "link3": "https://www.linkedin.com/posts/andrew-wright-2429871b1_big-congratulations-to-my-dad-david-wright-activity-7302822662433656832-FPHv/",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298681377",
+        "info": "Name: Stephen Walker\nAlias: Stephen C Walker\nDOB: 1969",
+        "link1": "https://www.gurufocus.com/insider/225558/stephen-c-walker",
+        "link2": "https://www.marketscreener.com/insider/STEPHEN-WALKER-A0FGHR/",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298680130",
+        "info": "Name: William Lawrence\nDOB: 1990",
+        "link1": "https://en.wikipedia.org/wiki/William_Lawrence_(activist)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298682788",
+        "info": "Name: Gabriel Moraes Ferreira dos Santos\nDOB: 1998",
+        "link1": "https://fatoamazonico.com.br/pf-deflagra-operacao-gatekeeper-e-mira-policial-suspeito-de-facilitar-trafico-de-drogas-no-aeroporto-de-manaus/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298758158",
+        "info": "Name: Yu Lei\nDOB: January 1978",
+        "link1": "https://baike.baidu.com/item/%E4%BD%99%E7%A3%8A/45633",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298487872",
+        "info": "Name: Derek Douglas Reader\nDOB: 1982",
+        "link1": "https://www.clayconews.com/news/oregon-city-music-teacher-arrested-on-multiple-rape-and-sexual-abuse-charges-involving-juvenile",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298491390",
+        "info": "Name: Mary Robinson\nAlias: Mary Lisa Robinson",
+        "link1": "https://www.mcleadership.org/boardsandcommittees",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298542386",
+        "info": "Name: Gary Cunningham\nAlias: Gary Lynn Cunningham\nDOB: Oct 30, 1948\nDeceased dates: Dec 17, 2025",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298549252",
+        "info": "Name: Matthew Mclaughlin\nAlias: Matthew M Mclaughlin\nDOB: November 11, 1960",
+        "link1": "https://www.ohioresidentdatabase.com/person/OH0011460129/mclaughlin-matthew",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298548943",
+        "info": "Name: Lê Thị Linh Nhung\nDOB: 1982",
+        "link1": "https://www.vietnam.vn/en/vu-cong-ty-aic-ca-mau-tra-ho-so-de-dieu-tra-bo-sung-do-co-tinh-tiet-moi",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298486018",
+        "info": "Name: Amanda Riddle\nDOB: 1989",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298491483",
+        "info": "Name: Li Bin\nDOB: 1967",
+        "link1": "https://www.tbsnews.net/bangladesh/crime/3-chinese-nationals-held-producing-ketamine-dhaka-flat-smuggling-it-sri-lanka",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298538550",
+        "info": "Name: Cathy Betts\nAlias: Catherine Ann Betts\nDOB: Aug. 1977",
+        "link1": "https://www.legistorm.com/person/bio/489397/Catherine_Ann_Betts.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298537946",
+        "info": "Name: Lauren Anderson\nGEO: Colorado Springs, Colorado",
+        "link1": "https://starharbor.us/matt-anderson",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298541984",
+        "info": "Name: Franklin King\nAlias: Franklin Lawrence King\nDOB: 22 June 1953\nDeceased dates: 25 December 2015",
+        "link1": "https://ancestors.familysearch.org/en/GJ6J-TB5/franklin-lawrence-king-1953-2015",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298541983",
+        "info": "Name: Rosalie Lehner\nAlias: Rosalie Helene Lehner King\nDOB: Aug 25, 1926\nDeceased dates: Jul 26, 2018",
+        "link1": "https://www.premierfuneral.com/obituaries/rosalie-king-2/obituary",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298538818",
+        "info": "Name: William Krause",
+        "link1": "https://www.truepeoplesearch.com/find/person/pn8462u0284llr48240u",
+        "link2": "https://www.linkedin.com/in/kevin-krause-7b56aa4/",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298538675",
+        "info": "Name: Kevin W Krause\nDOB: August 1960",
+        "link1": "https://www.truepeoplesearch.com/find/person/pn8462u0284llr48240u",
+        "link2": "https://www.linkedin.com/in/kevin-krause-7b56aa4/",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298540057",
+        "info": "Name: Kathy Cho\nAlias: Kathy Kyung Hee Cho",
+        "link1": "https://www.dignitymemorial.com/obituaries/seattle-wa/kyu-cho-10769485",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1787898211722
+    },
+    {
+        "gridId": "298580735",
+        "info": "Name: Juan Carlos Velazquez Morales\nDOB: 2003",
+        "link1": "https://charlestonsc.mugshots.zone/velazquez-morales-juan-carlos-mugshot-02-03-2025/",
+        "link2": "https://abcnews4.com/news/local/georgetown-county/gallery/operation-last-stand-officials-announce-31-indictments-connected-to-june-2025-ladson-club-raid-ice-hsi-cartel-afterparty?photo=27",
+        "link3": "",
+        "timestamp": 1787898211722
     }
 ]
