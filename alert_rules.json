@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -542,7 +542,7 @@
     {
         "active": true,
         "color": "#b71c1c",
-        "exception": "r-icon-org, img:flags/us.gif",
+        "exception": "r-icon-org, img:flags/us.gif, Search Type: Look Forward",
         "fontSize": "22px",
         "keyword": "Firm Number: LP01005P + \"PEP\"",
         "message": "Foreign PEP Unlimited Geo",
