@@ -70294,5 +70294,61 @@
         "link2": "",
         "link3": "",
         "timestamp": 1788003221332
+    },
+    {
+        "gridId": "298622372",
+        "info": "Name: Victor Medina\nGEO: Florida",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
+    },
+    {
+        "gridId": "298710260",
+        "info": "Name: Sean Huggins\nAlias: Sean D. Huggins",
+        "link1": "https://data-portal.finra.org/aao_documents/25-00809%282%29.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
+    },
+    {
+        "gridId": "298710321",
+        "info": "Name: Oscar Martinez",
+        "link1": "https://www.getwarmer.com/advisors/oscar-martinez",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
+    },
+    {
+        "gridId": "298624756",
+        "info": "Name: Matthew Shane Lafon",
+        "link1": "https://www.whitepages.com/name/Matthew-S-Lafon/Norman-OK/Po8MoAdMqwy",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
+    },
+    {
+        "gridId": "298624829",
+        "info": "Name: Diane Lafon Reed\nGEO: Aubrey",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
+    },
+    {
+        "gridId": "298624641",
+        "info": "Name: Amanda Johnson\nAlias: Amanda J. Johnson",
+        "link1": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/33197",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
+    },
+    {
+        "gridId": "298624684",
+        "info": "Name: Kelly Lyons\nGEO: Massachusetts",
+        "link1": "https://www.americafirstpolicy.com/team/todd-lyons",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788008964524
     }
 ]
