@@ -69065,7 +69065,7 @@
     },
     {
         "gridId": "298542747",
-        "info": "Name: Joe Ferguson\nDOB: ~1960",
+        "info": "Name: Joe Ferguson\nMinimum Age: 1960",
         "link1": "https://hint-pot.jp/archives/289171",
         "link2": "https://www.deseret.com/faith/2023/12/22/24007922/ambassador-george-glass-supports-heber-valley-temple-red-ledges-church-of-jesus-christ/",
         "link3": "",
@@ -72502,5 +72502,37 @@
         "link2": "",
         "link3": "",
         "timestamp": 1788292144332
+    },
+    {
+        "gridId": "298542113",
+        "info": "Name: Travis Hill\nDOB: 1983",
+        "link1": "https://en.wikipedia.org/wiki/Travis_Hill_(attorney)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788293050941
+    },
+    {
+        "gridId": "298542396",
+        "info": "Name: Whitney Hill\nAlias: Daughter of Travis Hill",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788293050941
+    },
+    {
+        "gridId": "298542768",
+        "info": "Name: Alex Davis\nGEO: Lumpkin County, ga",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788293050941
+    },
+    {
+        "gridId": "298539976",
+        "info": "Name: Johnny Morales\nGEO: Dove Springs, tx",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1788293050941
     }
 ]
