@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -136,60 +136,6 @@
     },
     {
         "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L4",
-        "message": "REG / L4: NO MATCH any Mayor (Main too)",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + MUN /",
-        "message": "MUN: ALERT ONLY if Mayor of listed cities (Main too)",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + JUD /",
-        "message": "JUD: ONLY ALERT Federal Supreme Court Justice",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + LEG /",
-        "message": "LEG: ONLY ALERT Federal House of Representative/Member of the Federal Senate",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + GCO / L3",
-        "message": "GCO / L3: ONLY ALERT Member of the Federal Reserve",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + AMB / L2",
-        "message": "AMB / L2: NO MATCH if Honorary Consul",
-        "position": "bottom-center"
-    },
-    {
-        "active": true,
         "color": "#ef6c00",
         "exception": "r-icon-org",
         "fontSize": "18px",
@@ -279,7 +225,7 @@
         "position": "bottom-center"
     },
     {
-        "active": true,
+        "active": false,
         "color": "#1565c0",
         "exception": "r-icon-org",
         "fontSize": "18px",
@@ -376,15 +322,6 @@
         "keyword": "Firm Number: DB20031P",
         "message": "C/V code + MLA, TER, WLT, FOF, FOS = Unlimited Geo <br>\nOthers 65 Miles",
         "position": "middle-right"
-    },
-    {
-        "active": true,
-        "color": "#1565c0",
-        "exception": "CAB / L, NIO / L, MIL / L, POL / L, AMB / L1, REG / L1",
-        "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"UNITED STATES\" + REG / L2",
-        "message": "REG / L2: ONLY ALERT state Lt. Governor (Main Too)",
-        "position": "bottom-center"
     },
     {
         "active": true,
@@ -591,6 +528,177 @@
         "fontSize": "18px",
         "keyword": "Firm Number: MS25000P + \"PEP\"",
         "message": "Only return PEP/FAM alerts that contain at least one of the below three identifiers:<br>\n• DOB<br>\n• YOB<br>\n• Full Address (City/State/Country)",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + AMB /",
+        "message": "Alert US Ambassador to UN only. Others NM",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + CAB / L3",
+        "message": "Alert if:<br>\nDeputy Secretary/Deputy Commissioner-of State Depts<br>\nNo Match <b>Under Secretary</b>",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + GCO / L2",
+        "message": "No match if <br>\nChairman, Managing Director, CEO, or President of US State SOE",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + GCO / L3",
+        "message": "No match if <br>\nBoard of Directors, Deputy Chairman, CFO, Deputy Managing Director, COO, or VP of US State SOE",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + GCO / L4",
+        "message": "No match if <br>\nBoard of Directors of US State SOE",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + INF / L2",
+        "message": "No match if <br>\nGeneral Counsel or Advisors of Federal Depts",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + INF / L3",
+        "message": "No match if <br>\n• Deputy CIO/COO/CFO of Federal Depts <br>\n• Deputy Assistant Secretary of US State Gov/ Federal Depts",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + JUD / L2",
+        "message": "Alert if <br>\n• Associate Justice of US Supreme Court<br>\n• Federal Deputy Attorney General<br>\n• State Attorney General",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + JUD / L3",
+        "message": "Only alert if State Deputy Attorney General",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + JUD / L4",
+        "message": "Risk NM",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + LEG / L2",
+        "message": "Only alert if: <br>\n• President Pro Tempore and Senators (Federal Senate),  <br>\n• Deputy Speaker and Members (Federal House of Representatives)",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + LEG / L3",
+        "message": "Risk NM",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + NIO / L1",
+        "message": "No match if <br>\n• Comptroller General of Government Accountability Office <br>\n• Chairman of Federal Election Commission",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + NIO / L2",
+        "message": "No match if <br>\n• FEC Vice Chairman<br>\n• Federal General Counsel/Advisor",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + NIO / L3",
+        "message": "No match if <br>\n• Federal/State Deputy Assistant Secretary<br>\n• Federal Deputy CIO/COO/CFO",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + POL / L2, Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + POL / L3",
+        "message": "Only alert if: <br>\nTreasurer, Vice Chairman, or Secretary of National Committee",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + POL / L4",
+        "message": "Risk NM",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + REG / L2, Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + REG / L3, Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + REG / L4",
+        "message": "Only Alert if Lieutenant Governor",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + MUN / L1",
+        "message": "Only alert Mayor of (Main too): <br>\n• Albany, New York<br>\n• Annapolis, Maryland",
         "position": "bottom-center"
     }
 ]
