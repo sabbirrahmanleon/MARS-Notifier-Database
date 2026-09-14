@@ -78166,5 +78166,45 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789362943041
+    },
+    {
+        "gridId": "299827571",
+        "info": "Name: David Jones\nAlias: David Carl Jones",
+        "link1": "https://thetandd.com/news/local/crime-courts/article_44b441f9-37b4-42ef-ac5a-d4d4a30bde1d.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789364123693
+    },
+    {
+        "gridId": "299817360",
+        "info": "Name: Tiago da Costa Oliveira\nGEO: United states",
+        "link1": "https://aratuon.com.br/seguranca/quem-sao-os-tres-pms-denunciados-por-mortes-de-jovem-e-adolescente-em-salvador/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789364123693
+    },
+    {
+        "gridId": "299828030",
+        "info": "Name: Cesar Chavez\nDOB: March 31, 1927\nDeceased: April 23, 1993",
+        "link1": "https://www.sfchronicle.com/bayarea/article/cesar-chavez-lawsuit-22425042.php",
+        "link2": "https://en.wikipedia.org/wiki/Cesar_Chavez_sexual_abuse_allegations",
+        "link3": "",
+        "timestamp": 1789364123693
+    },
+    {
+        "gridId": "299880162",
+        "info": "Name: Nazrul Islam Majumder\nDOB: September 1956, December 1956",
+        "link1": "https://en.wikipedia.org/wiki/Nazrul_Islam_Mazumder",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789369902861
+    },
+    {
+        "gridId": "299818142",
+        "info": "Name: Mauro Antonio Ruiz Díaz Vallejos\nDOB: 1980",
+        "link1": "https://www.abc.com.py/policiales/2024/05/23/quien-es-mauro-ruiz-diaz-ex-director-de-inteligencia-de-la-senad/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789369902861
     }
 ]
