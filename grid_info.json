@@ -78406,5 +78406,53 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789444283055
+    },
+    {
+        "gridId": "299952395",
+        "info": "Name: Majid Ali Akbar Namdar Al-Mandalawi\nDOB: 1972-07-20",
+        "link1": "https://www.opensanctions.org/entities/ofac-57916",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789451874258
+    },
+    {
+        "gridId": "299917512",
+        "info": "Name: Jesús Alberto Salcedo-Pérez\nDOB: 1994",
+        "link1": "https://www.justice.gov/usao-sdfl/pr/homeland-security-task-force-five-plead-guilty-importing-thousands-kilograms-cocaine",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789451909411
+    },
+    {
+        "gridId": "299917649",
+        "info": "Name: Nicolás Navarro Flores\nDOB: 1989",
+        "link1": "https://www.primerafuente.com.ar/noticias/131948/crimen-rika-antonella-lvarez-causa-avanza-hacia-juicio",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789451909411
+    },
+    {
+        "gridId": "299916883",
+        "info": "Name: Yang Shunyi\nDOB: February 1955",
+        "link1": "https://baike.baidu.com/item/%E6%9D%A8%E9%A1%BA%E4%B9%89/2824008",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789451909411
+    },
+    {
+        "gridId": "299917586",
+        "info": "Name: Leopoldo Martínez\nDOB: 1978",
+        "link1": "https://www.santafe.gov.ar/noticias/noticia/281914/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789451909411
+    },
+    {
+        "gridId": "299917520",
+        "info": "Name: Ernesto García Maañón\nDOB: 1949",
+        "link1": "https://www.clarin.com/policiales/decision-tomo-suprema-corte-historico-juez-san-isidro-denunciado-acoso-sexual_0_gVWJZHteXZ.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789451909411
     }
 ]
