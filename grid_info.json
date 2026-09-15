@@ -78230,5 +78230,37 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789377921760
+    },
+    {
+        "gridId": "299917526",
+        "info": "Name: Rafael Álvarez Ayala\nDOB: 1984",
+        "link1": "https://www.justice.gov/opa/pr/cartel-commanders-charged-international-cocaine-and-methamphetamine-trafficking-conspiracy",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789439072173
+    },
+    {
+        "gridId": "299952391",
+        "info": "Name: Hussein Ibrahim\nDOB: 08 May 1986",
+        "link1": "https://ofac.treasury.gov/recent-actions/20260910",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789439072173
+    },
+    {
+        "gridId": "299954383",
+        "info": "Name: Mark Jones Jr\\nDOB: 1995",
+        "link1": "https://www.thebanner.com/community/criminal-justice/mark-jones-jr-sentencing-rosedale-murder-son-jacobi-RIWZTAOKWVCPDHGYRPJCZIVUN4/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789439087826
+    },
+    {
+        "gridId": "299916885",
+        "info": "Name: Mohammed Rahman\\nAlias: MOHAMMED A RAHMAN",
+        "link1": "https://www.canadacompanyregistry.com/companies/ck-frozen-fish-food-canada-inc/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789439087826
     }
 ]
