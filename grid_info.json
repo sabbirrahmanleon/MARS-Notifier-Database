@@ -78481,9 +78481,9 @@
     },
     {
         "gridId": "299925584",
-        "info": "Name: Christopher Taylor\nGEO: Chattanooga",
+        "info": "Name: Christopher Taylor\nGEO: Chattanooga\nyob: 1970",
         "link1": "https://newschannel9.com/news/local/man-charged-with-soliciting-minors-after-sting-operation-in-chattanooga",
-        "link2": "",
+        "link2": "https://www.kwch.com/2026/09/15/kansas-man-extradited-tennessee-after-child-sex-crime-bust/",
         "link3": "",
         "timestamp": 1789459194289
     },
@@ -78758,5 +78758,101 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789534158493
+    },
+    {
+        "gridId": "300077415",
+        "info": "Name: Peter Valente\nDOB: 1974",
+        "link1": "https://www.detroitnews.com/story/news/local/oakland-county/2026/03/05/2-oakland-co-residents-accused-covid-19-loan-fraud-charged/88998183007/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789538542351
+    },
+    {
+        "gridId": "300076254",
+        "info": "Name: Madhav Patel\nDOB: 1993",
+        "link1": "https://triblive.com/news/pennsylvania/plum-warehouse-linked-to-massively-profitable-illegal-thc-product-sales/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789538542351
+    },
+    {
+        "gridId": "300077405",
+        "info": "Name: William Frederick Reed\nDOB: 1984",
+        "link1": "https://www.justice.gov/usao-ndil/pr/suburban-chicago-police-officer-charged-covid-relief-fraud",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789538542351
+    },
+    {
+        "gridId": "299927486",
+        "info": "Name: Olatomiwa Adebayo Idowu\nDOB: 1990",
+        "link1": "https://b2bhint.com/en/company/ng/plaude-technologies-limited--RC-2018242#google_vignette",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789538542351
+    },
+    {
+        "gridId": "299924159",
+        "info": "Name: Corey Lewandowski\nAlias: Corey Ryan Lewandowski\nDOB: September 18, 1973",
+        "link1": "https://en.wikipedia.org/wiki/Corey_Lewandowski",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789538542351
+    },
+    {
+        "gridId": "299977117",
+        "info": "Name: Aruna Kumara Dissanayake\nDOB: 24 November 1968",
+        "link1": "https://en.wikipedia.org/wiki/Anura_Kumara_Dissanayake",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543713012
+    },
+    {
+        "gridId": "300076259",
+        "info": "Name: Ankitkumar Patel\nAlias: Ankitkumar R Patel\nDOB: 1985",
+        "link1": "https://www.citizensvoice.com/2026/09/15/jenkins-twp-warehouse-idd-as-hub-for-weed-conspiracy/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543713012
+    },
+    {
+        "gridId": "299921154",
+        "info": "Name: Miguel Andrés Quintero Calle\nDOB: 1977",
+        "link1": "https://www.semana.com/amp/nacion/medellin/articulo/fiscalia-senala-a-miguel-quintero-calle-de-ser-el-cerebro-de-un-plan-criminal-en-el-area-metropolitana-esto-dijo-en-la-imputacion-de-cargos/202610/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543713012
+    },
+    {
+        "gridId": "300006387",
+        "info": "Name: James Miller\nDOB: 1959",
+        "link1": "https://www.smh.com.au/traveller/inspiration/global-numbers-game-20140507-37vl7.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543713012
+    },
+    {
+        "gridId": "300081167",
+        "info": "Name: Chris Martin\nAlias: Christopher Lee Martin\nDOB: 1975",
+        "link1": "https://www.phoenixnewtimes.com/news/zonka-bar-bust-arizonas-anti-pot-zealots-throw-medical-marijuana-entrepreneurs-in-jail-6648616/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543713012
+    },
+    {
+        "gridId": "299928019",
+        "info": "Name: Michael Hyland",
+        "link1": "https://www.linkedin.com/in/michael-hyland-4b462b7b/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543713012
+    },
+    {
+        "gridId": "300076258",
+        "info": "Roshniben A Patel\nYOB: 1988",
+        "link1": "https://www.standardspeaker.com/2026/09/15/jenkins-twp-warehouse-idd-as-hub-for-weed-conspiracy/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789543725252
     }
 ]
