@@ -21488,7 +21488,7 @@
         "timestamp": 1785911114899
     },
     {
-        "gridId": "291229724",
+        "gridId": "291229724, 299924128",
         "info": "Josh Cohen\nJoshua A. Cohen\nJune 25\nAge logic",
         "link1": "https://www.linkedin.com/in/joshua-cohen-522baa20/",
         "link2": "https://finance.yahoo.com/news/azrh-azure-holding-group-completes-181500819.html",
@@ -78566,5 +78566,45 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789461614053
+    },
+    {
+        "gridId": "299966303",
+        "info": "Name: MARY MOORE\nAlias: Mary L Moore\nGEO: oh/cincinnati",
+        "link1": "https://unpan.org/name/mary-moore/oh/cincinnati",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789524272345
+    },
+    {
+        "gridId": "300064315",
+        "info": "Name: Jamie Gray\nAlias: Jamie W. Gray",
+        "link1": "https://www.linkedin.com/in/jamie-gray-696676194/",
+        "link2": "https://kansasreflector.com/2026/09/14/vance-warns-fraudsters-not-to-screw-the-american-taxpayer-as-operation-uncovers-245m-in-losses/",
+        "link3": "",
+        "timestamp": 1789525913401
+    },
+    {
+        "gridId": "300077476",
+        "info": "Name: Jamie Gray\nAlias: Jamie W. Gray",
+        "link1": "https://www.linkedin.com/in/jamie-gray-696676194/",
+        "link2": "https://kansasreflector.com/2026/09/14/vance-warns-fraudsters-not-to-screw-the-american-taxpayer-as-operation-uncovers-245m-in-losses/",
+        "link3": "",
+        "timestamp": 1789525913401
+    },
+    {
+        "gridId": "300076253",
+        "info": "Name: Dharmeshkumar Patel\nAlias: Dharmeshkumar S Patel\nDOB: 1979",
+        "link1": "https://www.thetimes-tribune.com/2026/09/15/jenkins-twp-warehouse-idd-as-hub-for-weed-conspiracy/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789525913401
+    },
+    {
+        "gridId": "299926717",
+        "info": "Name: Jose Padilla\nDOB: 1950",
+        "link1": "https://en.wikipedia.org/wiki/Padilla_v._Kentucky",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789525913401
     }
 ]
