@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -697,8 +697,17 @@
         "color": "#1565c0",
         "exception": "",
         "fontSize": "18px",
-        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + MUN / L1",
-        "message": "MUN / L1: Only alert Mayor of (Main too): <br>\n• Albany, New York<br>\n• Annapolis, Maryland",
+        "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + MUN / L",
+        "message": "MUN / L1: Only alert Mayor of (Main too): <br>\n• Albany, New York<br>\n• Annapolis, Maryland<br>\nNO MATCH all other MUN",
         "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#1565c0",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: BL03000P + r-icon-org, Firm Number: BH01005P + r-icon-org, Firm Number: BM02000P + r-icon-org",
+        "message": "For Non-Fortune: <br>\n• Alert MLA, BRB, TER, WLT<br>\n• Alert if event is related to AML, Bribery, Corruption, Terrorism finance, Terrorism, IRANNOTICE<br>\n• Last Option: Alert ONLY IF $100,000,000 or more fine",
+        "position": "bottom-left"
     }
 ]
