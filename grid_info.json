@@ -80256,14 +80256,6 @@
         "timestamp": 1789790792969
     },
     {
-        "gridId": "300402500",
-        "info": "Name: Mohammad Mahdi Zaker Hossein\nDOB: 1981",
-        "link1": "https://www.upi.com/Top_News/US/2026/09/17/Iran-sanctions-Hormuz-fees/9161789699731/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1789790792969
-    },
-    {
         "gridId": "300240685",
         "info": "Name: Jose Hernandez-Rodriguez\nGEO: Floyd County, Indiana",
         "link1": "https://www.dhs.gov/news/2026/09/16/worst-worst-ice-arrests-child-abusers-reckless-drivers-and-drug-traffickers",
@@ -80292,14 +80284,6 @@
         "info": "Name: Robert Wilson\nDOB: 1970",
         "link1": "https://www.wilx.com/2026/09/16/13-people-arrested-after-being-caught-stealing-250k-chicken-semi-trailer-officials-say/?outputType=amp",
         "link2": "",
-        "link3": "",
-        "timestamp": 1789790792969
-    },
-    {
-        "gridId": "300243635",
-        "info": "Name: David Creamer\nAlias: David Benjamin Creamer\nDOB: July 19, 1946",
-        "link1": "https://www.usmarshals.gov/what-we-do/fugitive-apprehension/15-most-wanted-fugitive/david-benjamin-creamer",
-        "link2": "https://www.usmarshals.gov/what-we-do/fugitive-investigations/15-most-wanted-fugitive",
         "link3": "",
         "timestamp": 1789790792969
     },
@@ -80502,5 +80486,53 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300240914",
+        "info": "Name: Muhammad Taha\nDOB: 2005",
+        "link1": "https://www.timesofisrael.com/liveblog-september-16-2026/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789806295874
+    },
+    {
+        "gridId": "300243635",
+        "info": "Name: David Benjamin Creamer\nDOB: July 19, 1946",
+        "link1": "https://www.usmarshals.gov/what-we-do/fugitive-apprehension/15-most-wanted-fugitive/david-benjamin-creamer",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789806295874
+    },
+    {
+        "gridId": "300232965",
+        "info": "Name: Gerard Lopez\nAlias: Gérard López Fojaca\nDOB: 27 December 1971",
+        "link1": "https://en.wikipedia.org/wiki/G%C3%A9rard_L%C3%B3pez",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789806295874
+    },
+    {
+        "gridId": "300402499",
+        "info": "Name: Seyed Adel Heidari\nDOB: 1975",
+        "link1": "https://www.upi.com/Top_News/US/2026/09/17/Iran-sanctions-Hormuz-fees/9161789699731/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789806295874
+    },
+    {
+        "gridId": "300366109",
+        "info": "Name: Daniel Santos\nAlias: Daniel Barbosa Santos\nDOB: 25 August 1986",
+        "link1": "https://en.wikipedia.org/wiki/Daniel_Santos_(politician)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789806295874
+    },
+    {
+        "gridId": "300402500",
+        "info": "Name: Mohammad Mahdi Zaker Hossein\nDOB: 09 Sep 1981",
+        "link1": "https://www.upi.com/Top_News/US/2026/09/17/Iran-sanctions-Hormuz-fees/9161789699731/",
+        "link2": "https://ofac.treasury.gov/recent-actions/20260917",
+        "link3": "",
+        "timestamp": 1789806295874
     }
 ]
