@@ -80216,14 +80216,6 @@
         "timestamp": 1789785880385
     },
     {
-        "gridId": "300242010",
-        "info": "Name: Joe Gonzales\nDOB: 1959",
-        "link1": "https://www.sacurrent.com/news/meet-joe-gonzales-whos-defying-political-gravity-14616737/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1789785880385
-    },
-    {
         "gridId": "300234366",
         "info": "Name: Joshua Allen\nDOB: 1979",
         "link1": "https://www.lubbockonline.com/story/entertainment/local/2017/01/28/business-profile-allen-offering-accounting-business-consulting-and-land/14876608007/",
@@ -80414,5 +80406,101 @@
         "link2": "",
         "link3": "",
         "timestamp": 1789795226284
+    },
+    {
+        "gridId": "300402610",
+        "info": "Name: Andrew Maloney\nDOB: 1967",
+        "link1": "https://www.justice.gov/archives/opa/pr/georgia-laboratory-owner-pleads-guilty-felony-charge-and-pays-143-million-resolve-liability",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300240306",
+        "info": "Name: Fernando García Checa\nDOB: 1958",
+        "link1": "https://castellonplaza.com/castellonplaza/fallecefernandogarciachecaexdirectorgeneraldebancaja",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300455809",
+        "info": "Name: Helen Mayen Adams\nAlias: Helen Sayen Adams\nDOB: 1959",
+        "link1": "https://www.justice.gov/opa/pr/department-justice-charges-16-individuals-illegal-voting-and-related-election-crimes",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300321952",
+        "info": "Name: Brendon Riley\nAlias: Brendon James RILEY\nDOB: 1962",
+        "link1": "https://find-and-update.company-information.service.gov.uk/officers/-eMf1ebXgQ4vgSEB6QMtn0ryO7g/appointments",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300242010",
+        "info": "Name: Joe Gonzales\nAlias: JOE D. GONZALES",
+        "link1": "https://www.mlpsa.org/events/2022/Dec-8/Bio_Joe_Gonzales.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300455807",
+        "info": "Name: Carlos Salas Barrios\nDOB: 1985",
+        "link1": "https://www.justice.gov/opa/pr/department-justice-charges-16-individuals-illegal-voting-and-related-election-crimes",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300239699",
+        "info": "Name: Angel Eduardo Castro\nDOB: 2002",
+        "link1": "https://www.wwlp.com/news/federal-prosecutors-in-new-york-charge-five-for-russian-hit-job/amp/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300233216",
+        "info": "Name: Steven Shivers\nAlias: Steven H. Shivers",
+        "link1": "https://in.marketscreener.com/insider/STEVEN-SHIVERS-A031VQ/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300343357",
+        "info": "Name: Ricki Rickaline Gibbs\nDOB: 1995",
+        "link1": "https://hoodline.com/2026/09/bronx-couple-face-federal-proceedings/#:~:text=Ricki%20Rickaline%20Gibbs%20and%20Swayne%20Barker%2C%20who,to%20Jamaica%20after%20missing%20court%20in%202025.",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300240113",
+        "info": "Name: G Papa Rao\nDOB: 1968",
+        "link1": "https://www.livelaw.in/pdf_upload/2026/09/08/wp83942026-698977.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300239029",
+        "info": "Name: Luis Alberto Gaitán Mendoza",
+        "link1": "https://www.prensa.com/judiciales/una-juez-favorece-al-contratista-del-cru-de-san-miguelito-con-una-fianza-de-800000/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
+    },
+    {
+        "gridId": "300238034",
+        "info": "Name: Mohammed Sharifullah\nDOB: 1998",
+        "link1": "https://www.theguardian.com/world/2026/sep/17/is-member-sentenced-kabul-airport-bombin",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1789800503648
     }
 ]
