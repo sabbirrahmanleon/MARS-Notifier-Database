@@ -82286,5 +82286,69 @@
         "link2": "",
         "link3": "",
         "timestamp": 1790213324370
+    },
+    {
+        "gridId": "300753020",
+        "info": "Name: Timothy Brunner\nGEO: Topeka, Kansas",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300679822",
+        "info": "Name: Abdallah Salman\nDOB: 1970-07-01",
+        "link1": "https://www.opensanctions.org/entities/arpet-personas-85/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300691975",
+        "info": "Name: Daniel Pérez Patricio\nDOB: 1987",
+        "link1": "https://www.sinembargo.mx/58072/presentan-a-el-dany-presunto-homicida-de-francisco-sicilia/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300694024",
+        "info": "Name: Daniel Pérez Patricio\nDOB: 1987",
+        "link1": "https://www.sinembargo.mx/58072/presentan-a-el-dany-presunto-homicida-de-francisco-sicilia/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300761339",
+        "info": "Name: Juan Antonio Hernández Alvarado\nDOB: 06-13-1978",
+        "link1": "https://en.wikipedia.org/wiki/Tony_Hern%C3%A1ndez",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300691769",
+        "info": "Name: John Lee\nAlias: John Lige Lee\nGEO: ELIZABETHTON, Tenn.",
+        "link1": "https://www.wvlt.tv/2026/09/21/former-tcat-employees-facing-slew-charges-after-misappropriating-over-1m-investigation-reveals/",
+        "link2": "https://comptroller.tn.gov/news/2026/9/21/former-tcat-elizabethton-employees-misappropriated-more-than--1-million.html",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300822445",
+        "info": "Name: Gilbert Bukenya\nDOB: 5 August 1949",
+        "link1": "https://en.wikipedia.org/wiki/Gilbert_Bukenya",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
+    },
+    {
+        "gridId": "300753067",
+        "info": "Name: Pat Thomas\nDOB: 11/21/1933\nDeceased: 06/21/2000",
+        "link1": "https://en.wikipedia.org/wiki/Pat_Thomas_(politician)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790217554573
     }
 ]
