@@ -671,7 +671,7 @@
         "exception": "",
         "fontSize": "18px",
         "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + POL / L2, Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + POL / L3",
-        "message": "POL / L3/L3: Only alert if: <br>\nTreasurer, Vice Chairman, or Secretary of National Committee",
+        "message": "POL / L2/L3: Only alert if: <br>\nTreasurer, Vice Chairman, or Secretary of National Committee",
         "position": "bottom-center"
     },
     {
@@ -706,7 +706,7 @@
         "color": "#1565c0",
         "exception": "",
         "fontSize": "18px",
-        "keyword": "Firm Number: BL03000P + r-icon-org, Firm Number: BH01005P + r-icon-org, Firm Number: BM02000P + r-icon-org",
+        "keyword": "Firm Number: BL03000P + r-icon-org, Firm Number: BH01005P + r-icon-org, Firm Number: BM02000P + r-icon-org, Firm Number: BH01000P + r-icon-org",
         "message": "For Non-Fortune: <br>\n• Alert MLA, BRB, TER, WLT<br>\n• Alert if event is related to AML, Bribery, Corruption, Terrorism finance, Terrorism, IRANNOTICE<br>\n• Last Option: Alert ONLY IF $100,000,000 or more fine",
         "position": "bottom-left"
     }
