@@ -83689,10 +83689,10 @@
     },
     {
         "gridId": "300951025",
-        "info": "Name: Charles Smith\nAlias: Charles L. Smith III\nCouncil Bluffs, IA",
+        "info": "Name: Charles Smith\nAlias: Charles L. Smith III\nCouncil Bluffs, IA\nMissouri Valley, Iowa",
         "link1": "https://www.scp-ks.org/en/judge-charles-smith-iii",
         "link2": "https://www.heafeyheafey.com/obituaries/Mary-Eileen-Smith?obId=46427716",
-        "link3": "",
+        "link3": "https://omaha.com/news/state_and_regional/article_5e3a817d-fe29-5538-9d81-7be5331624b1.html",
         "timestamp": 1790391201512
     },
     {
@@ -83784,19 +83784,35 @@
         "timestamp": 1790392421777
     },
     {
-        "gridId": "301009055",
-        "info": "Name: William Jones\nAlias: William E. Jones",
-        "link1": "https://www.stltoday.com/news/local/crime-courts/collection_98b66ada-c4a3-4e29-9fc1-182a3162f03e.html#1",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1790392421777
-    },
-    {
         "gridId": "300869580",
         "info": "Inside MLA",
         "link1": "",
         "link2": "",
         "link3": "",
         "timestamp": 1790392929951
+    },
+    {
+        "gridId": "301009055",
+        "info": "Name: William Jones\nAlias: William E. Jones\nDOB: 1972",
+        "link1": "https://hannibal.net/2026/09/24/former-louisiana-mo-police-chief-gets-29-years-in-prison-on-drug-charges/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790395265013
+    },
+    {
+        "gridId": "300869772",
+        "info": "Name: Yolanda Brown\nDOB: 1979",
+        "link1": "https://www.wfla.com/news/pinellas-county/former-financial-consultant-for-st-pete-mayors-campaign-pleads-guilty-to-1m-fraud-scheme/amp/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790395265014
+    },
+    {
+        "gridId": "300869647",
+        "info": "Name: Luis Reyna Tenorio\nAlias: Luis Jheovanny Reyna Tenorio",
+        "link1": "https://www.ecuavisa.com/seguridad/vicko-villacis-alcalde-esmeraldas-carcel-cotopaxi-20260605-0091.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790395265014
     }
 ]
