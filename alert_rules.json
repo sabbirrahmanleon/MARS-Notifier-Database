@@ -709,5 +709,14 @@
         "keyword": "Firm Number: BL03000P + r-icon-org, Firm Number: BH01005P + r-icon-org, Firm Number: BM02000P + r-icon-org, Firm Number: BH01000P + r-icon-org",
         "message": "For Non-Fortune: <br>\n• Alert MLA, BRB, TER, WLT<br>\n• Alert if event is related to AML, Bribery, Corruption, Terrorism finance, Terrorism, IRANNOTICE<br>\n• Last Option: Alert ONLY IF $100,000,000 or more fine",
         "position": "bottom-left"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "22px",
+        "keyword": "Firm Number: SN70000P + r-icon-person + \"LMD\"",
+        "message": "LMD events - ONLY alert in state/bordering state",
+        "position": "middle-right"
     }
 ]
