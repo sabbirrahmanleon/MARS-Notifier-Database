@@ -84593,9 +84593,9 @@
     },
     {
         "gridId": "300956886",
-        "info": "Name: Daniel Sauer\nDOB: 1978",
+        "info": "Name: Daniel Sauer\nName: Daniel Amir Sauer Adlerstein\nDOB: 1978",
         "link1": "https://www.latercera.com/pulso/noticia/quien-es-daniel-sauer-el-empresario-en-medio-del-huracan-tras-audios-de-luis-hermosilla/5KFGIS7FB5GFDJFYR5SOEMNMKU/",
-        "link2": "",
+        "link2": "https://www.t13.cl/noticia/politica/ex-ante/quien-daniel-sauer-polemico-empresario-acumula-9-querellas-16-11-2023",
         "link3": "",
         "timestamp": 1790481038910
     },
@@ -84670,5 +84670,61 @@
         "link2": "",
         "link3": "",
         "timestamp": 1790484724971
+    },
+    {
+        "gridId": "300970321",
+        "info": "Name: Abigail Cramer\nAlias: Abigail L Cramer\nDOB: 1998",
+        "link1": "https://www.therepublic.com/2026/09/25/ex-impd-officer-from-columbus-accused-of-hundreds-of-unauthorized-flock-searches/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
+    },
+    {
+        "gridId": "300970531",
+        "info": "Name: Israel de Oliveira\nAlias: Israel Frota de Oliveira\nDOB: 1989",
+        "link1": "https://www.opovo.com.br/noticias/seguranca-publica/2026/05/28/presos-faccionados-que-divulgaram-ordens-de-expulsao-de-moradores.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
+    },
+    {
+        "gridId": "300970969",
+        "info": "Name: Luis Omar Giménez\nDOB: September 1957",
+        "link1": "https://www.lanacion.com.ar/politica/quien-es-el-funcionario-de-telam-y-sindicalista-investigado-por-la-justicia-nid2077421/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
+    },
+    {
+        "gridId": "300970000",
+        "info": "Name: Li Xu\nDOB: February 1973",
+        "link1": "https://en.wikipedia.org/wiki/Li_Xu_(born_1973)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
+    },
+    {
+        "gridId": "300970010",
+        "info": "Name: Francisco Rivera\nAlias: “el Franci”\nDOB: 1995",
+        "link1": "https://www.latercera.com/nacional/noticia/tribunal-decreta-prision-preventiva-para-segundo-imputado-por-homicidio-de-carabinero-en-renca/?outputType=base-amp-type",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
+    },
+    {
+        "gridId": "300955764",
+        "info": "Name: Danny Thomas\nDOB: 25 December 1988",
+        "link1": "https://en.wikipedia.org/wiki/Danny_Tommo",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
+    },
+    {
+        "gridId": "301048213",
+        "info": "Name: Susan Strom\nAlias: Susan Frances Strom\nDeceased dates: 1997",
+        "link1": "https://en.wikipedia.org/wiki/Lyle_Elmer_Strom",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790486272296
     }
 ]
