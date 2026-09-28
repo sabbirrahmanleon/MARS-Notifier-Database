@@ -718,5 +718,14 @@
         "keyword": "Firm Number: SN70000P + r-icon-person + \"LMD\"",
         "message": "LMD events - ONLY alert in state/bordering state",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#455a64",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Escalate Inquiry Match",
+        "message": "• DOB Confusion<br>\n• Name Confusion<br>\n• Geo Confusion<br>\n• Relationship Confusion<br>\n• Imat Confusion<br>\n• Gender Confusion<br>\n• Exact Confusion<br>\n• Update Confusion<br>\n• Inquiry Profile Confusion<br>\n• Alert Confusion<br>",
+        "position": "bottom-right"
     }
 ]
