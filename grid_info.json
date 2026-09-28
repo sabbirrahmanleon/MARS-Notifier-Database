@@ -85014,5 +85014,37 @@
         "link2": "",
         "link3": "",
         "timestamp": 1790562770235
+    },
+    {
+        "gridId": "301073271",
+        "info": "Name: James Morgan\nAlias: James E Morgan\nDOB: 1978",
+        "link1": "https://news.wttw.com/2026/09/25/11-current-former-ford-heights-officials-charged-using-public-funds-private-travel",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790565599966
+    },
+    {
+        "gridId": "301073270",
+        "info": "Name: Johnny A. Griffin\nDOB: 1959",
+        "link1": "https://news.wttw.com/2026/09/25/11-current-former-ford-heights-officials-charged-using-public-funds-private-travel",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790565599966
+    },
+    {
+        "gridId": "301103587",
+        "info": "Name: John Carter\nAlias: John D. Carter",
+        "link1": "http://bg.usembassy.gov/sofia/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790565599966
+    },
+    {
+        "gridId": "301103663",
+        "info": "Name: Lisa Gates\nDOB: 1981",
+        "link1": "https://people.com/finding-your-roots-host-henry-louis-gates-jr-family-secret-paved-way-for-show-exclusive-8583146",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790565599966
     }
 ]
