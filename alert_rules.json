@@ -725,7 +725,7 @@
         "exception": "",
         "fontSize": "18px",
         "keyword": "Escalate Inquiry Match",
-        "message": "• DOB Confusion<br>\n• Name Confusion<br>\n• Geo Confusion<br>\n• Relationship Confusion<br>\n• Imat Confusion<br>\n• Gender Confusion<br>\n• Exact Confusion<br>\n• Update Confusion<br>\n• Inquiry Profile Confusion<br>\n• Alert Confusion<br>",
+        "message": "• DOB Confusion<br>\n• Name Confusion<br>\n• Geo Confusion<br>\n• Relationship Confusion<br>\n• Imat Confusion<br>\n• Gender Confusion<br>\n• Exact Confusion<br>\n• Update Confusion<br>\n• Inquiry Profile Confusion<br>\n• Alert Confusion<br>\n• Auto Escalate",
         "position": "bottom-right"
     }
 ]
