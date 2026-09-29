@@ -85302,5 +85302,53 @@
         "link2": "https://www.bizjournals.com/washington/print-edition/2012/06/01/dealmaker-debra-lehman-smith.html",
         "link3": "",
         "timestamp": 1790583683472
+    },
+    {
+        "gridId": "301154022",
+        "info": "Name: Lourdes Bernarda Ramírez\nDOB: 1973",
+        "link1": "https://www.abc.com.py/nacionales/2026/08/25/viuda-de-alejandro-ramos-va-a-juicio-por-el-secuestro-de-felix-urbieta/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790650269760
+    },
+    {
+        "gridId": "301187707",
+        "info": "Name: Joy Davis",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790650269760
+    },
+    {
+        "gridId": "301129030",
+        "info": "Name: Kate Muller\nAlias: Katherine T. Muller",
+        "link1": "https://www.zoominfo.com/p/Katherine-Muller/1445639722",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790650269760
+    },
+    {
+        "gridId": "301154072",
+        "info": "Name: Ricardo Roa\nAlias: Ricardo Roa Barragán",
+        "link1": "https://www.ecopetrol.com.co/wps/portal/Home/en/news/detail/the-board-of-directors-of-ecopetrol-sa-appoints-a-new-president-of-ecopetrol-sa",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790650269760
+    },
+    {
+        "gridId": "301153935",
+        "info": "Name: Carlos Ramón González\nAlias: Carlos Ramón González Merchán\nDOB: November 11, 1958",
+        "link1": "https://en.wikipedia.org/wiki/Carlos_Ram%C3%B3n_Gonz%C3%A1lez",
+        "link2": "https://www.elespectador.com/politica/carlos-ramon-gonzalez-el-nuevo-director-del-dapre/",
+        "link3": "",
+        "timestamp": 1790650269760
+    },
+    {
+        "gridId": "301128891",
+        "info": "Name: Richard R. Palmer",
+        "link1": "https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/documents/about-us/mediareportssurveys/documents/2014%20june%20minutes.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1790650269760
     }
 ]
