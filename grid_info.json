@@ -88854,5 +88854,37 @@
         "link2": "",
         "link3": "",
         "timestamp": 1791082710612
+    },
+    {
+        "gridId": "301617078",
+        "info": "Name: Daniel Larson\nGEO: 123 1st Avenue N, Minneapolis, MN 55401",
+        "link1": "https://www.ag.state.mn.us/Office/Communications/2026/docs/16966_Refocus-Recovery_Complaint.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791088077509
+    },
+    {
+        "gridId": "301617519",
+        "info": "Name: Robert VanZile, Jr",
+        "link1": "https://sokaogonchippewa.com/tribal-center/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791088077509
+    },
+    {
+        "gridId": "301703246",
+        "info": "Name: John Duffy\nAlias: JOHN F. DUFFY\nGEO: Westerly, Rhode Island\nDOB: 1961",
+        "link1": "https://www.justice.gov/usao-ct/pr/former-state-official-indicted-arrested-school-construction-extortion-and-bribery-scheme",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791088077509
+    },
+    {
+        "gridId": "301614736",
+        "info": "Name: Pawan Kumar\nAlias: Devarakonda Pawan Kumar\nDOB: 2004",
+        "link1": "https://telanganatoday.com/youth-arrested-for-nursing-students-murder-in-kothagudems-julurupad",
+        "link2": "https://www.thehindu.com/news/national/telangana/nursing-students-suspicious-death-turns-out-to-be-murder-youth-arrested/article71533747.ece",
+        "link3": "",
+        "timestamp": 1791088077509
     }
 ]
