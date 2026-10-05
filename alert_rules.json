@@ -1,6 +1,6 @@
 [
     {
-        "active": true,
+        "active": false,
         "color": "#2e7d32",
         "exception": "Firm Number: RI99990P, Inquiry Match Search",
         "fontSize": "18px",
@@ -698,7 +698,7 @@
         "exception": "",
         "fontSize": "18px",
         "keyword": "Firm Number: MS + \"PEP\" + \"Pep Connect - UNITED STATES\" + MUN / L",
-        "message": "MUN / L1: Only alert Mayor of (Main too): <br>\n• Albany, New York<br>\n• Annapolis, Maryland<br>\nNO MATCH all other MUN",
+        "message": "MUN / L1: Only alert Mayor of listed cities (Main too): <br>\nNO MATCH all other MUN",
         "position": "bottom-center"
     },
     {
