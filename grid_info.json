@@ -93025,7 +93025,7 @@
     },
     {
         "gridId": "302152491",
-        "info": "Name: Marquis Craig\nDOB: 1992",
+        "info": "Name: Marquis Craig\nDOB: 1992\nGeo wrong capture. \nGeo should be Marion County, Indiana",
         "link1": "https://fox59.com/news/2-dead-1-injured-after-shooting-that-lead-to-a-high-speed-pursuit/",
         "link2": "",
         "link3": "",
@@ -93790,5 +93790,13 @@
         "link2": "",
         "link3": "",
         "timestamp": 1791813339221
+    },
+    {
+        "gridId": "302244119",
+        "info": "Name: Cody Allen\nAlias: Cody Lee Allen\nAlias: Cody L Allen\nDOB: March 1979",
+        "link1": "https://www.fastbackgroundcheck.com/people/cody-allen/id/f-2477191470594002072",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791819153606
     }
 ]
