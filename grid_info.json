@@ -91912,7 +91912,7 @@
         "timestamp": 1791596819982
     },
     {
-        "gridId": "302048211",
+        "gridId": "302048211, 302149108",
         "info": "Name: Gerald Foley Smith\nAlias: Gerald F. Smith",
         "link1": "https://verityonlinenews.com/cartel-ties-police-ig-linked-to-drug-cartel/",
         "link2": "",
@@ -93694,5 +93694,101 @@
         "link2": "",
         "link3": "",
         "timestamp": 1791803076303
+    },
+    {
+        "gridId": "302244115",
+        "info": "Name: James Wilson\nAlias: James Ryan Wilson\nDOB: 1993-08-24",
+        "link1": "https://www.city-data.com/soz/soz-72143.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302244929",
+        "info": "Name: Stefan Schiopu\nAlias: Stefan Lucianovictor Schiopu",
+        "link1": "https://www.mtdemocrat.com/news/school-aide-accused-of-possessing-child-sex-abuse-material/article_b96a8113-14af-5504-9bc9-4936b98465dd.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302277867",
+        "info": "Name: Faisal Kimuli",
+        "link1": "https://www.pulse.ug/story/uganda-tourism-fraud-fk-car-rental-scam-2026100612182262641",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302139525",
+        "info": "Name: Jhon Eidelber CANO CORREA\nDOB: 13 Dec 1963",
+        "link1": "https://ofac.treasury.gov/recent-actions/20261005",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302135538",
+        "info": "Name: Juan Alberto López Torales\nDOB: 1962",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302149330",
+        "info": "Name: Gary Jones\nDOB: 1988",
+        "link1": "https://www.south-wales.police.uk/news/south-wales/news/2026/october/rhondda-man-jailed-for-multiple-burglaries/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302277927",
+        "info": "Name: Kenneth Brock-Smith\nDOB: 1982",
+        "link1": "https://mpdc.dc.gov/release/MPD-Arrests-Suspect-in%20West-Virginia-Avenue-Homicide-10.3.26",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302151538",
+        "info": "Name: Rudy Rivas Ceja\nDOB: 1979",
+        "link1": "https://mynewsla.com/crime/2026/10/08/man-gets-10-years-for-rape-in-santa-ana/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791809250816
+    },
+    {
+        "gridId": "302152782",
+        "info": "Name: Donna Deegan\nAlias: Donna Hazouri Deegan\nDOB: February 28, 1961",
+        "link1": "https://en.wikipedia.org/wiki/Donna_Deegan",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791813339221
+    },
+    {
+        "gridId": "302245088",
+        "info": "Name: Cameron Douglas Cameron\nAlias: Cameron Morrell Douglas\nDOB: December 13, 1978",
+        "link1": "https://en.wikipedia.org/wiki/Cameron_Douglas",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791813339221
+    },
+    {
+        "gridId": "302242409",
+        "info": "Name: William Martin\nDOB: 1981",
+        "link1": "https://www.star-telegram.com/news/local/crime/article315910213.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791813339221
+    },
+    {
+        "gridId": "302245804",
+        "info": "Name: Antonio de Jesus Jimenez Martinez",
+        "link1": "https://www.dhs.gov/news/2026/10/09/make-america-safe-again-dhs-deports-illegal-alien-gangsters-including-attempted",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1791813339221
     }
 ]
