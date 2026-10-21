@@ -99352,14 +99352,6 @@
         "timestamp": 1792595846376
     },
     {
-        "gridId": "302831230",
-        "info": "Name: William D. Green\nDOB: 1954",
-        "link1": "https://www.marketscreener.com/insider/WILLIAM-GREEN-A03B14/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1792595846376
-    },
-    {
         "gridId": "302881032",
         "info": "Name: John Campbell\nDOB: 1956",
         "link1": "https://www.impartialreporter.com/news/24785025.judge-adjourns-death-dangerous-driving-case/",
@@ -100102,5 +100094,21 @@
         "link2": "",
         "link3": "",
         "timestamp": 1792617013854
+    },
+    {
+        "gridId": "302827970",
+        "info": "Name: Brian Wilson\nDOB: 1980",
+        "link1": "https://www.delawareonline.com/story/news/crime/2019/03/04/wilmington-heroin-and-cocaine-drug-trafficker-sentenced-21-years/3053066002/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792618902608
+    },
+    {
+        "gridId": "302831230",
+        "info": "Name: William D. Green\nDOB: August 1953",
+        "link1": "https://en.wikipedia.org/wiki/William_D._Green",
+        "link2": "https://www.marketscreener.com/insider/WILLIAM-GREEN-A03B14/",
+        "link3": "",
+        "timestamp": 1792618902608
     }
 ]
