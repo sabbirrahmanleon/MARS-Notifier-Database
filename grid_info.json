@@ -99496,14 +99496,6 @@
         "timestamp": 1792595846376
     },
     {
-        "gridId": "302880765",
-        "info": "Name: Mohamed Hamza Abdel Rahman\nAlias: Mohamed Waziri\nDOB: 11/13/1986",
-        "link1": "https://www.filfan.com/news/121626",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1792595846376
-    },
-    {
         "gridId": "302881371",
         "info": "Name: Edgar Iván Herrera Segura\nAlias: El Valentín\nDOB: 1984",
         "link1": "https://www.infobae.com/mexico/2026/07/28/asi-vivia-y-operaba-el-valentin-miembro-de-la-union-tepito-ejecutado-en-el-centro-historico-de-la-cdmx/",
@@ -99814,5 +99806,21 @@
         "link2": "",
         "link3": "",
         "timestamp": 1792595846376
+    },
+    {
+        "gridId": "302915207",
+        "info": "Name: MICHAEL VENTURA\nGEO: Orange County, State of California",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792598924312
+    },
+    {
+        "gridId": "302880765",
+        "info": "Name: Mohamed Hamza Abdel Rahman\nDOB: 1986",
+        "link1": "https://www.alaraby.co.uk/%D9%87%D9%8A%D9%81%D8%A7-%D9%88%D9%87%D8%A8%D9%8A-%D8%AA%D8%B7%D9%84%D8%A8-%D9%85%D9%86%D8%B9-%D9%86%D8%B4%D9%80%D8%B1-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%82%D8%B6%D9%8A%D8%AA%D9%87%D8%A7-%D8%B6%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1%D9%8A",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792598924312
     }
 ]
