@@ -100552,22 +100552,6 @@
         "timestamp": 1792678486669
     },
     {
-        "gridId": "302894718",
-        "info": "Name: Raul Reyes-Hernandez\nAlias: Aurelio Reyes-Hernandez",
-        "link1": "",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1792678486669
-    },
-    {
-        "gridId": "303015021",
-        "info": "Name: Raul Reyes-Hernandez\nAlias: Aurelio Reyes-Hernandez",
-        "link1": "",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1792678486669
-    },
-    {
         "gridId": "303005659",
         "info": "Name: Fredrick Brown\nDOB: 1981",
         "link1": "https://www.justice.gov/archives/opa/pr/former-army-contractor-receives-151-month-sentence-fraud-scheme-targeting-thousands-us",
@@ -100982,5 +100966,61 @@
         "link2": "",
         "link3": "",
         "timestamp": 1792701878881
+    },
+    {
+        "gridId": "302894718",
+        "info": "Name: Raul Reyes-Hernandez\nAlias: Aurelio Reyes-Hernandez",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
+    },
+    {
+        "gridId": "303015021",
+        "info": "Name: Raul Reyes-Hernandez\nAlias: Aurelio Reyes-Hernandez",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
+    },
+    {
+        "gridId": "302962631",
+        "info": "Name: Andriy Leonov\nAlias: Leonov Andriy Anatoliyovych\nDOB: 12/14/1976",
+        "link1": "https://nabu.gov.ua/news/nabu-rozshuku-kolishn-ogo-suddiu-babushk-ns-kogo-raionnogo-sudu-m-dn-propetrovs-ka/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
+    },
+    {
+        "gridId": "302961890",
+        "info": "Name: Stephen Smith\nDOB: 1974",
+        "link1": "https://www.bbc.com/news/articles/c6n9wrpl3v5lo",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
+    },
+    {
+        "gridId": "303015083",
+        "info": "Name: Siddhi Patel\nDOB: March 1987",
+        "link1": "https://www.truepeoplesearch.com/find/person/px8942049n268rnu69ru9",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
+    },
+    {
+        "gridId": "302984331",
+        "info": "Name: Júlio César\nAlias: Júlio César Cavalcanti Ferreira",
+        "link1": "https://obrasilianista.com.br/2026/10/20/justica/delator-de-esquema-de-corrupcao-doa-r-11-milhao-a-campanha-de-flavio/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
+    },
+    {
+        "gridId": "302961889",
+        "info": "Name: Md. Mizanur Rahman\nDOB: 1967",
+        "link1": "https://www.jagonews24.com/en/national/news/96563",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792708075249
     }
 ]
