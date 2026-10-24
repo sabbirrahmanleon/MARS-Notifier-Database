@@ -96520,14 +96520,6 @@
         "timestamp": 1792150796732
     },
     {
-        "gridId": "302590207",
-        "info": "Name: Robert Joe Wagner\nDOB: 11/28/1971",
-        "link1": "https://en.wikipedia.org/wiki/Snowtown_murders",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1792150796732
-    },
-    {
         "gridId": "302493220",
         "info": "Name: Antonio Bevilacqua\nDOB: 27/02/1978",
         "link1": "https://www.comuniecitta.it/en/italian-municipalities/cotronei-101009/council-and-administration",
@@ -96963,6 +96955,14 @@
         "gridId": "302606991",
         "info": "Name: Nikolai Gnidin\nAlias: Gnidin Nikolay Nikolaevich\nDOB: December 14, 1998",
         "link1": "https://memopzk.org/figurant/gnidin-nikolaj-nikolaevich/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792187232676
+    },
+    {
+        "gridId": "302590207",
+        "info": "Name: Robert Wagner\nAlias: Robert Joe WAGNER\nDOB: 28 November 1971",
+        "link1": "https://murderpedia.org/male.W/w/wagner-robert-joe.htm",
         "link2": "",
         "link3": "",
         "timestamp": 1792187232676
@@ -101742,5 +101742,221 @@
         "link2": "",
         "link3": "",
         "timestamp": 1792813236723
+    },
+    {
+        "gridId": "302983470",
+        "info": "Name: Benjamin Hoang\nYOB: 1978",
+        "link1": "https://www.westminster-ca.gov/Home/Components/News/News/1260/269",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303044386",
+        "info": "Name: Nguyễn Thị Anh\nDOB: 1985",
+        "link1": "https://news.tuoitre.vn/ho-chi-minh-city-police-bust-banned-substance-pig-fattening-ring-10000-tonnes-of-tainted-pork-sold-103261005214736808.htm",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303078915",
+        "info": "Name: ERICK ALBERTO IBARRA",
+        "link1": "https://legaldocs.insurance.ca.gov/CyberDOCS/Libraries/DOCS_WEB/Common/viewdocdsp.asp?doc=314904&lib=DOCS_WEB&version=319681&mimetype=APPLICATION%2FPDF&file=.pdf&rendition=html&MSOESPq330994WA=x.mht",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "302983142",
+        "info": "Name: Alexa Rodrigues\nDoB: July 09, 1988",
+        "link1": "https://www.cnnbrasil.com.br/eleicoes/2026/candidatos/mt/deputado-estadual/pode/alex-rodrigues/20400/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303043829",
+        "info": "Name: Cedric Lee\nAlias: Cedric C. Lee",
+        "link1": "https://bworldonline.com/the-nation/2026/09/28/782780/bucor-to-review-court-records-and-sentence-computations-for-deniece-cornejo-cedric-lee-release/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303121557",
+        "info": "Name: B. Schmitt\nAlias: Bertram Schmitt",
+        "link1": "https://www.icc-cpi.int/sites/default/files/CourtRecords/0902ebd1807af260.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303062764",
+        "info": "Name: William Brown\nAlias: William Ian Brown\nAlias: William L Brown\nDOB: August 1986",
+        "link1": "https://www.fastpeoplesearch.com/william-brown_id_G5674018405283849369",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303029648",
+        "info": "Name: Tim Stone\nAlias: Tim R. B. Stone",
+        "link1": "https://www.ifaa-archery.org/about-us/hall-of-fame/presidents-medal/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303061485",
+        "info": "Name: Joshua Nathaniel Smith\nYOB: 1991",
+        "link1": "https://www.newswest9.com/article/news/local/odessa-man-arrested-indecency-child-bedford/513-cfd16e15-1e1e-4b21-81b1-bc4eec6b1cd0",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303044436",
+        "info": "Name: Nguyễn Văn Thi\nDOB: 1972",
+        "link1": "https://vnexpress.net/pho-chu-tich-tinh-thanh-hoa-nguyen-van-thi-bi-bat-4938462.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303060867",
+        "info": "Name: Jennifer Gonzalez\nAge: 43\nGEO: Fall River, Massachusetts",
+        "link1": "https://www.uscis.gov/newsroom/news-releases/six-charged-in-large-scale-marriage-fraud-ring",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303121884",
+        "info": "Name: Ken Smith\nDOB: 1967",
+        "link1": "https://patch.com/illinois/orlandpark/ken-smith-teaches-practical-defense-at-homer-glen-gym",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303121994",
+        "info": "Name: Sam Turner",
+        "link1": "https://www.linkedin.com/in/samturnerprofile/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303187051",
+        "info": "Name: Patricia Anderson\nYOB: 1968",
+        "link1": "https://oig.hhs.gov/fraud/enforcement/california-man-pleads-guilty-to-orchestrating-270m-medication-reimbursement-fraud-scheme/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303059055",
+        "info": "Name: David Brown\nAlias: David Morton BROWN\nDOB: May 1976",
+        "link1": "https://find-and-update.company-information.service.gov.uk/officers/NiJpDO0qnFHEbIxggeUw6D-ncq0/appointments",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303061402",
+        "info": "Name: Michael Madison\nDOB: October 15, 1977",
+        "link1": "https://en.wikipedia.org/wiki/Michael_Madison",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303137076",
+        "info": "Name: Pasquale Avallone\nYOB: 1977",
+        "link1": "https://www.ilroma.net/news/cronaca/865171/clan-angelino-i-nomi-degli-indagati.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303121975",
+        "info": "Name: Peter Maxwell\nDOB: August 15, 1953\nGEO: USA",
+        "link1": "https://www.barbaradance.com/blog/peter-maxwell-and-lynn-harman",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303060294",
+        "info": "Name: H.C. Wang\nAlias: Haichen Wang\nDOB: 1983",
+        "link1": "https://finance.yahoo.com/quote/BULLW/profile/",
+        "link2": "https://brokercheck.finra.org/individual/summary/5246329",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303137509",
+        "info": "Name: Fernando Sánchez\nAge: between 19 to 26",
+        "link1": "https://oem.com.mx/la-prensa/policiaca/persecucion-en-tlalpan-termina-con-detencion-de-tres-presuntos-homicidas-32389496",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303187079",
+        "info": "Name: Lisa Lucas-Burke\nAlias: Lisa Louise Lucas-Burke",
+        "link1": "https://lisalucasburke.com/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303137515",
+        "info": "Name: Luis Caputo\nAlias: Luis Andrés \"Toto\" Caputo\nDOB: 21 April 1965",
+        "link1": "https://en.wikipedia.org/wiki/Luis_Caputo",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303060150",
+        "info": "Name: Mary Leeonna Powell\nYOB: 1991",
+        "link1": "https://krcrtv.com/news/local/woman-arrested-after-being-found-with-over-20-pounds-of-meth-nearly-2-pounds-of-fentanyl",
+        "link2": "https://www.appeal-democrat.com/corning_observer/tehama-county-court-report--10-21/article_697d0407-1db0-4edd-b3a9-a7cdbcbeb00d.html",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303137640",
+        "info": "Name: Carlos Jesús Sánchez Vásquez",
+        "link1": "https://eldiario.com/2026/10/02/condena-brazalete-blanco/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303188197",
+        "info": "Name: Steven Adonay Ortega Rodezno\nYOB: 2005",
+        "link1": "https://www.elsalvadorjournalist.com/index.php/nacionales/ejercito-captura-a-3-sujetos-con-60-paquetes-de-marihuana",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303060950",
+        "info": "Name: Shahid Rashid\nDOB: 1961",
+        "link1": "https://www.legalfutures.co.uk/latest-news/legal-aid-fraud-trial-stopped-as-barristers-self-isolate",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
+    },
+    {
+        "gridId": "303185951",
+        "info": "Name: Kim Ho Seung\nYOB: 1969",
+        "link1": "https://www.hjn24.com/news/articleView.html?idxno=137014",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1792813383566
     }
 ]
