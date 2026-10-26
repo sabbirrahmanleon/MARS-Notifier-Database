@@ -482,7 +482,7 @@
         "exception": "r-icon-org, img:flags/us.gif, Search Type: Look Forward",
         "fontSize": "22px",
         "keyword": "Firm Number: LP01005P + \"PEP\"",
-        "message": "Foreign PEP Unlimited Geo",
+        "message": "-Alert All foreign PEP's with a non-US address regardless of geography<br>\n-Alert All foreign PEP's with a US address within 25 miles",
         "position": "middle-right"
     },
     {
