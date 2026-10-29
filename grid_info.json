@@ -104120,14 +104120,6 @@
         "timestamp": 1793267932640
     },
     {
-        "gridId": "303508142",
-        "info": "DOB: 1974",
-        "link1": "https://www.bbc.com/news/uk-england-lancashire-35788633",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793267932640
-    },
-    {
         "gridId": "303481273",
         "info": "Name: David Sánchez\nAlias: David Sánchez Pérez-Castejón\nDOB: 1974",
         "link1": "https://www.abc.es/espana/extremadura/david-hermano-director-orquesta-pedro-sanchez-acabo-20260714124606-nt.html",
@@ -104190,5 +104182,77 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793268716438
+    },
+    {
+        "gridId": "303462138",
+        "info": "Name: Sandro Garcia\nGEO: Peru",
+        "link1": "https://www.linkedin.com/in/sandrogarciaegoavil/details/education/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303367309",
+        "info": "Name: Adriana Daniela Méndez Justiniano\nDOB: 05/08/1993",
+        "link1": "https://es.wikipedia.org/wiki/Adriana_M%C3%A9ndez",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303508142",
+        "info": "Name: David Philip McDermott\nAlias: David Smith\nDOB: 1974",
+        "link1": "https://www.bbc.com/news/uk-england-lancashire-35788633",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303507914",
+        "info": "Name: Mohammed Ali\nDOB: 1994",
+        "link1": "https://spyreports.co.ug/court-charges-businessman-for-stealing-2-4-million-worth-of-gold-remanded-to-luzira-prison/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303509545",
+        "info": "Name: Mark Miller\nDOB: 1973",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303462170",
+        "info": "Name: Ana Maria Lopez\nGEO: Colombia",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303566863",
+        "info": "Name: Claire-Marie Scicluna\nDOB: 1979",
+        "link1": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Court%20Notices/PublishingImages/Pages/2026/10/CourtNotices2310/Court%20Notices%20Gaz%2023.10.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303379375",
+        "info": "Name: Alex Rodrigues de Oliveira\nDOB: 1970",
+        "link1": "https://revistaforum.com.br/politica/quem-sao-alan-e-alex-os-pms-nota-mil-de-flavio-bolsonaro/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303380817",
+        "info": "Name: Helga Mariana Ramírez Toriz\nAlias: Mariana Ramírez Toris",
+        "link1": "https://historico.e-consulta.com/nota/2025-11-03/seguridad/directora-del-registro-publico-de-la-propiedad-sobrina-de-exedil-profugo",
+        "link2": "https://m.municipiospuebla.mx/opinion/secretaria-anticorrupcion-justicia-juarista",
+        "link3": "",
+        "timestamp": 1793270240918
     }
 ]
