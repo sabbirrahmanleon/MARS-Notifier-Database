@@ -104096,14 +104096,6 @@
         "timestamp": 1793265969990
     },
     {
-        "gridId": "303507524",
-        "info": "DOB: 1998",
-        "link1": "https://www.tbsnews.net/bangladesh/court/paltan-sabotage-case-court-grants-3-day-remand-14-al-activists-1584696",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793267932640
-    },
-    {
         "gridId": "303462207",
         "info": "Name: Trish Lovell\nDOB: 1952",
         "link1": "https://extranet.worldarchery.sport/biographies/PrintBiography.php?WaId=521",
@@ -104200,14 +104192,6 @@
         "timestamp": 1793270240918
     },
     {
-        "gridId": "303508142",
-        "info": "Name: David Philip McDermott\nAlias: David Smith\nDOB: 1974",
-        "link1": "https://www.bbc.com/news/uk-england-lancashire-35788633",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793270240918
-    },
-    {
         "gridId": "303507914",
         "info": "Name: Mohammed Ali\nDOB: 1994",
         "link1": "https://spyreports.co.ug/court-charges-businessman-for-stealing-2-4-million-worth-of-gold-remanded-to-luzira-prison/",
@@ -104252,6 +104236,14 @@
         "info": "Name: Helga Mariana Ramírez Toriz\nAlias: Mariana Ramírez Toris",
         "link1": "https://historico.e-consulta.com/nota/2025-11-03/seguridad/directora-del-registro-publico-de-la-propiedad-sobrina-de-exedil-profugo",
         "link2": "https://m.municipiospuebla.mx/opinion/secretaria-anticorrupcion-justicia-juarista",
+        "link3": "",
+        "timestamp": 1793270240918
+    },
+    {
+        "gridId": "303508142",
+        "info": "Name: David Philip McDermott\nAlias: David Smith\nDOB: 1974\nNRSK",
+        "link1": "https://www.bbc.com/news/uk-england-lancashire-35788633",
+        "link2": "",
         "link3": "",
         "timestamp": 1793270240918
     },
@@ -104350,14 +104342,6 @@
         "link2": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%83n_V%C4%83n_Chi%E1%BA%BFu",
         "link3": "",
         "timestamp": 1793289631810
-    },
-    {
-        "gridId": "303508142",
-        "info": "Name: David Philip McDermott\nAlias: David Smith\nDOB: 1974\nNRSK",
-        "link1": "https://www.bbc.com/news/uk-england-lancashire-35788633",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793270240918
     },
     {
         "gridId": "303575978",
@@ -104536,14 +104520,6 @@
         "timestamp": 1793331850033
     },
     {
-        "gridId": "303506651",
-        "info": "Name: Lisa Lucas Burke\nAKA: Lisa L. Lucas-Burke\nDOB: 1963",
-        "link1": "https://www.wavy.com/news/politics/candidates/candidate-profile-lisa-l-lucas-burke-portsmouth-city-council/",
-        "link2": "https://www.13newsnow.com/article/news/crime/seven-indicted-in-state-sen-louise-lucas-case-what-to-know-about-their-alleged-roles/291-d57864ec-3dce-42db-8b9e-10defa67ecb1",
-        "link3": "",
-        "timestamp": 1793331850033
-    },
-    {
         "gridId": "303576163",
         "info": "Name: Yvonne Adams\nAlias: Yvonne Harriet Adams\nDOB: May 9, 1936\nDeceased: August 22, 2019",
         "link1": "",
@@ -104574,14 +104550,6 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793331850033
-    },
-    {
-        "gridId": "303506651",
-        "info": "Name: Lisa Lucas Burke\nAlias: Lisa L. Lucas-Burke\nDOB: 1963",
-        "link1": "https://www.wavy.com/news/politics/candidates/candidate-profile-lisa-l-lucas-burke-portsmouth-city-council/",
-        "link2": "https://www.13newsnow.com/article/news/crime/seven-indicted-in-state-sen-louise-lucas-case-what-to-know-about-their-alleged-roles/291-d57864ec-3dce-42db-8b9e-10defa67ecb1",
-        "link3": "",
-        "timestamp": 1793336364496
     },
     {
         "gridId": "303576134",
@@ -104742,5 +104710,77 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793336364496
+    },
+    {
+        "gridId": "303508319",
+        "info": "Name: Jonathan Miller\nDOB: 1980\nAlias: Jonathan David Miller",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303575994",
+        "info": "Name: Chris Jones\nAlias: Christopher JONES\nDOB: March 1959",
+        "link1": "https://find-and-update.company-information.service.gov.uk/officers/Mmv4K1xuXEKkBM5-GMxTYeRf1QI/appointments",
+        "link2": "http://www.factcontrollers.com/meet-the-team/",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303588489",
+        "info": "Name: Angie Rodríguez\nAlias: Angie Lizeth Rodríguez Fajardo",
+        "link1": "https://en.wikipedia.org/wiki/Angie_Rodr%C3%ADguez",
+        "link2": "https://www.elnuevodia.com.co/politica/el-nuevo-movimiento-de-angie-rodriguez-que-reaviva-la-polemica-con-gustavo-petro-540850",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303560068",
+        "info": "Name: Christopher Smith\nAlias: Christopher H. Smith",
+        "link1": "https://13wham.com/news/local/man-accused-of-fatally-shooting-girlfriend-in-livingston-county-homicide-murder-arrest-springwater-ny",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303580684",
+        "info": "Name: David Peterson\nAlias: David William Peterson\nDOB: 07/20/1936\nDeceased: 03/30/2023\nGEO: Saginaw, Michigan",
+        "link1": "https://www.resthavenbatonrouge.com/obituaries/david-peterson",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303581739",
+        "info": "Name: Carlos Garcia Prieto\nAge Category: M 60-64",
+        "link1": "https://itra.run/RunnerSpace/garciaprieto.carlos.77593",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303580601",
+        "info": "Name: Nathan Anderson\nGEO: Oxbow, N.D.",
+        "link1": "https://gobison.com/sports/mens-golf/roster/nathan-anderson/5141",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303505293",
+        "info": "Name: Mohamed Saeed\nAlias: Ahmed Saeed Mohamed",
+        "link1": "https://see.mv/99465",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339647204
+    },
+    {
+        "gridId": "303508423",
+        "info": "Name: Matthew Allen Powell\nDOB: 1978",
+        "link1": "https://www.wmdt.com/2025/09/bennett-high-social-worker-arrested-on-10-counts-of-child-porn/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793339765465
     }
 ]
