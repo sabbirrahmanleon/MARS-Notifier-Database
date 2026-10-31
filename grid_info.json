@@ -104544,14 +104544,6 @@
         "timestamp": 1793331850033
     },
     {
-        "gridId": "303506651",
-        "info": "Name: Lisa Lucas Burke\nAKA: Lisa L. Lucas-Burke\nDOB: 1963\nDOB: 1964",
-        "link1": "https://www.wavy.com/news/politics/candidates/candidate-profile-lisa-l-lucas-burke-portsmouth-city-council/",
-        "link2": "https://www.13newsnow.com/article/news/crime/seven-indicted-in-state-sen-louise-lucas-case-what-to-know-about-their-alleged-roles/291-d57864ec-3dce-42db-8b9e-10defa67ecb1",
-        "link3": "https://www.wavy.com/news/politics/candidates/candidate-profile-lisa-lucas-burke-portsmouth-mayor/",
-        "timestamp": 1793331850033
-    },
-    {
         "gridId": "303596825",
         "info": "Name: John Rogers\nAlias: John Louis Rogers, John L Rodgers\nDOB: December 1953",
         "link1": "https://www.truepeoplesearch.com/find/person/pxu02u0r2nl2666r449u4",
@@ -104692,6 +104684,14 @@
         "info": "Name: Tetyana Melnyk\nDOB: August 12, 1985",
         "link1": "https://www.powerlifting.sport/about-ipf/news/news-detail/new-female-athletes-speaker-in-ipf-ec-ipf-appoints-ukraine-lifter-tetiana-melnyk",
         "link2": "https://ipf.fandom.com/wiki/Tetyana_Melnyk",
+        "link3": "",
+        "timestamp": 1793336364496
+    },
+    {
+        "gridId": "303506651",
+        "info": "Name: Lisa Lucas Burke\nAlias: Lisa L. Lucas-Burke\nDOB: 1963",
+        "link1": "https://www.wavy.com/news/politics/candidates/candidate-profile-lisa-l-lucas-burke-portsmouth-city-council/",
+        "link2": "https://www.13newsnow.com/article/news/crime/seven-indicted-in-state-sen-louise-lucas-case-what-to-know-about-their-alleged-roles/291-d57864ec-3dce-42db-8b9e-10defa67ecb1",
         "link3": "",
         "timestamp": 1793336364496
     },
@@ -105398,5 +105398,13 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793375209903
+    },
+    {
+        "gridId": "303641327",
+        "info": "Name: Mohmed Ahmad Abdulkarim",
+        "link1": "https://www.counterterrorism.police.uk/news/raf-fairford-investigation/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793419968367
     }
 ]
