@@ -105686,5 +105686,45 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793438601663
+    },
+    {
+        "gridId": "303641801",
+        "info": "Name: Luis Alonso Rodriguez-Angel\nDOB: 18/02/1978",
+        "link1": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers",
+        "link2": "https://www.interpol.int/en/How-we-work/Notices/Red-Notices/View-Red-Notices#2023-23477",
+        "link3": "",
+        "timestamp": 1793440010876
+    },
+    {
+        "gridId": "303750410",
+        "info": "Name: Howard Crockett III\nAlias: HOWARD RONALD CROCKETT III",
+        "link1": "https://brokercheck.finra.org/individual/summary/3022729",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793440072491
+    },
+    {
+        "gridId": "303641639",
+        "info": "Name: Quang Minh Tran\nDOB: 1975",
+        "link1": "https://www.ocweekly.com/vietnamese-gangster-finally-gets-supreme-court-ruling-6457031/",
+        "link2": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers",
+        "link3": "",
+        "timestamp": 1793440072491
+    },
+    {
+        "gridId": "303735051",
+        "info": "Name: Garry Hines\nDOB: 1993",
+        "link1": "https://www.wect.com/2026/10/29/wilmington-man-arrested-charged-shooting-that-seriously-injured-woman/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793440072491
+    },
+    {
+        "gridId": "303641686",
+        "info": "Name: Carlos Castro-Ramirez\nGEO: Bakersfield, California",
+        "link1": "https://www.dhs.gov/news/2026/10/19/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-rapists-drug-traffickers",
+        "link2": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers",
+        "link3": "",
+        "timestamp": 1793440072491
     }
 ]
