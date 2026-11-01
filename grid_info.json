@@ -106088,14 +106088,6 @@
         "timestamp": 1793503506384
     },
     {
-        "gridId": "303735451",
-        "info": "Name: James E. Lee Sr\nGEO: Maryland, USA",
-        "link1": "https://www.thedigitalfreepress.com/post/former-usps-official-james-lee-pleads-guilty-bribery-packaging-contracts",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793503506384
-    },
-    {
         "gridId": "303735518",
         "info": "Name: William Holman\nDOB: 1963",
         "link1": "https://www.wfla.com/news/florida/detectives-dismantle-illegal-gambling-network-connected-to-5-florida-gambling-sites-deputies-say/",
@@ -106142,5 +106134,69 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793503506384
+    },
+    {
+        "gridId": "303735451",
+        "info": "Name: James E. Lee Sr\nGEO: Maryland, USA",
+        "link1": "https://www.thedigitalfreepress.com/post/former-usps-official-james-lee-pleads-guilty-bribery-packaging-contracts",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793503506384
+    },
+    {
+        "gridId": "303734733",
+        "info": "Name: Ericka Holland\nDOB: 06/24/1986",
+        "link1": "https://www.oig.dol.gov/public/mostwanted/OIG-Most_Wanted_Details-Ericka_Holland.htm",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
+    },
+    {
+        "gridId": "303733944",
+        "info": "Name: David Fox\nDOB: 1976",
+        "link1": "https://www.bbc.com/news/articles/cqdr8mylrnjjo",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
+    },
+    {
+        "gridId": "303736403",
+        "info": "Name: Robert Smith\nAlias: Robert Thomas Smith",
+        "link1": "https://www.wsaz.com/2026/09/04/wsaz-measles-case-reported-gallia-county-man-arrested-after-several-explosives-found-other-top-stories/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
+    },
+    {
+        "gridId": "303735604",
+        "info": "Name: Troy D. Brown\nDOB: 1994",
+        "link1": "https://www.nashville.gov/departments/police/news/two-men-involved-exchange-gunfire-jailed",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
+    },
+    {
+        "gridId": "303735049",
+        "info": "Name: Mohammad Khan\nAlias: Mohammad A. Khan\nDOB: 1957",
+        "link1": "https://www.osc.ny.gov/press/releases/2026/10/dinapoli-and-ulster-co-da-nneji-owner-medical-transportation-company-pleads-guilty-medicaid-fraud",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
+    },
+    {
+        "gridId": "303764137",
+        "info": "Name: Cristina Acosta\nAlias: Cristina de Jesús Acosta González",
+        "link1": "https://www.infobae.com/el-salvador/2026/10/29/golpe-al-narcotrafico-en-el-salvador-el-mayor-decomiso-terrestre-termino-con-siete-detenidos/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
+    },
+    {
+        "gridId": "303764122",
+        "info": "Name: Héctor González\nAlias: Héctor Giovanni González González",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793505988599
     }
 ]
