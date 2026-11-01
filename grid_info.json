@@ -106246,5 +106246,61 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793509131151
+    },
+    {
+        "gridId": "303861381",
+        "info": "Name: Salim Said\nDOB: 1989",
+        "link1": "https://www.mprnews.org/story/2026/10/28/central-organizer-of-feeding-our-future-scheme-gets-30-years",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793512728087
+    },
+    {
+        "gridId": "303733025",
+        "info": "Name: Annette Johnson\nDOB: 1963",
+        "link1": "https://abc7chicago.com/post/former-east-aurora-district-131-school-board-president-annette-johnson-directed-13m-company-owned-boyfriend-prosecutors/19996202/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793512728087
+    },
+    {
+        "gridId": "303734983",
+        "info": "Name: Todd Allan Penegor\nDOB: 1966",
+        "link1": "https://www.bestock.tv/stocks/pzza/profile/",
+        "link2": "https://www.morningstar.com/stocks/xnas/pzza/executive",
+        "link3": "",
+        "timestamp": 1793512728087
+    },
+    {
+        "gridId": "303729489",
+        "info": "Name: André Felipe de Oliveira Seixas Maia\nDOB: 1972",
+        "link1": "https://bnldata.com.br/en/ex-funcionario-do-banco-master-e-investigado-por-lavagem-de-dinheiro-em-apostas-ilegais/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793512728087
+    },
+    {
+        "gridId": "303736579",
+        "info": "Name: Mark Johnson\nDOB: December 27, 1945",
+        "link1": "https://en.wikipedia.org/wiki/Mark_Johnson_(producer)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793512728087
+    },
+    {
+        "gridId": "303764165",
+        "info": "Name: Javier Hernandez Alcon",
+        "link1": "https://www.dhs.gov/news/2026/10/29/secretary-mullin-highlights-success-ices-lone-star-mission-texas-arresting-over",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793512728087
+    },
+    {
+        "gridId": "303733066",
+        "info": "Name: Juan Alfonso Montalván Cerezo",
+        "link1": "https://www.primicias.ec/sucesos/constructora-alcalde-vinces-crecimiento-patrimonial-lavado-activos-mandato-juan-alfonso-montalvan-135892/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793512728087
     }
 ]
