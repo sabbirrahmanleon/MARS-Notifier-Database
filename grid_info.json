@@ -108152,14 +108152,6 @@
         "timestamp": 1793851029445
     },
     {
-        "gridId": "304002289",
-        "info": "Name: Richard Smith",
-        "link1": "",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793851029445
-    },
-    {
         "gridId": "304046030",
         "info": "Name: Majid Sefiane\nName: Michael Strong\nDOB: April 1964",
         "link1": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?InquiryType=EntityName&InquiryDirectionType=ForwardRecord&SearchNameOrder=MASTERCRAFTCONTRACTING%20L040000003640&ListNameOrder=MASTERCRAFTCONCRETE%203934090&Detail=FL.DOS.Corporations.Shared.Contracts.FilingRecord",
@@ -108414,5 +108406,117 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793863898942
+    },
+    {
+        "gridId": "304002289",
+        "info": "Name: Richard Smith\nAlias: Richard Mark Anthony Smith\nGEO: Los Angeles, CA",
+        "link1": "https://www.imdb.com/news/ni66033375/?ref_=nm_nwr_1",
+        "link2": "https://people.com/jodie-turner-smith-s-rep-denies-lawsuit-over-brother-s-alleged-drug-dealing-12140555",
+        "link3": "https://people.com/jodie-turner-smith-s-rep-denies-lawsuit-over-brother-s-alleged-drug-dealing-12140555",
+        "timestamp": 1793875432298
+    },
+    {
+        "gridId": "304002034",
+        "info": "Name: Michael Morin\nDOB: 1987",
+        "link1": "https://www.ctvnews.ca/vancouver/article/bc-beer-league-hockey-player-acquitted-of-in-game-assault/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793875432298
+    },
+    {
+        "gridId": "304059550",
+        "info": "Name: Chris Wilson\nDOB: 1991",
+        "link1": "https://www.westyorkshire.police.uk/news-appeals/four-sentenced-after-neighbourhood-policing-investigation-drug-offences-east-leeds",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793875432298
+    },
+    {
+        "gridId": "304058102",
+        "info": "Name: José Manuel Rodríguez Castelló\nDeceased: Not Deceased",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793875432298
+    },
+    {
+        "gridId": "304044194",
+        "info": "Name: Dick Snyder",
+        "link1": "https://www.orlandosentinel.com/1989/09/07/safety-group-pushes-for-boat-prop-guards/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304001561",
+        "info": "Name: Anne Hughes\nDOB: July 3, 1965",
+        "link1": "https://en.wikipedia.org/wiki/Anne_Hughes_(politician)",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304001555",
+        "info": "DOB: 1969",
+        "link1": "https://westchester.news12.com/3-peekskill-men-arrested-following-months-long-narcotics-investigation",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304002312",
+        "info": "Name: Daniel Flores\nDOB: 9/24/82",
+        "link1": "https://lacounty.gov/2026/08/20/to-encourage-whistleblowers-to-come-forward-lapd-officers-illegal-recording-charges-reduced-to-misdemeanors/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304045415",
+        "info": "Name: Major Syed Mohammad Ziaul Haque\nDOB: 11 November 1972",
+        "link1": "https://en.wikipedia.org/wiki/Syed_Mohammad_Ziaul_Haque",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304087344",
+        "info": "Name: Zhang Mei\nDOB: 1994",
+        "link1": "https://baike.baidu.com/en/item/Zhang%20Mei/6101955?from=baikecn",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304039280",
+        "info": "Name: Abdul Jabbar\nDOB: 05/03/1964",
+        "link1": "https://www.newagebd.net/post/country/320723/acc-okays-3-cases-against-salman-f-rahman-36-others",
+        "link2": "https://bmirror.net/janata-capital-and-investment-gets-new-chairman/",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304082295",
+        "info": "Name: Aronis Jose Hernandez-Aguilar\nDOB: 1994\nGEO: Honduras",
+        "link1": "https://www.actionnewsnow.com/news/covering-california/27-year-old-honduran-drug-ringleader-jailed-14-years-for-fentanyl/article_dfbb81ad-671a-49d6-9a0a-90b91ce6ef66.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304043449",
+        "info": "Name: Jose Gonzalez\nAlias: JOSE ASUNCION GONZALEZ",
+        "link1": "https://oeeparaguay.org/municipales-2026-los-concejales-municipales-y-la-composicion-de-las-juntas-2026/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
+    },
+    {
+        "gridId": "304045399",
+        "info": "Name: Kim Ji-yong\nDOB: 1968",
+        "link1": "https://www.chosun.com/english/national-en/2026/09/14/U4ZYTDVZZRF3VPUJDYFCITSXME/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793876489081
     }
 ]
