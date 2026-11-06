@@ -109040,14 +109040,6 @@
         "timestamp": 1793946364583
     },
     {
-        "gridId": "304217401",
-        "info": "Name: Gareth Jones\nDOB: 1986",
-        "link1": "https://www.shropshirelive.com/news/2026/11/05/extension-given-to-telford-shoplifters-criminal-behaviour-order/",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1793954052966
-    },
-    {
         "gridId": "304217453",
         "info": "",
         "link1": "",
@@ -109126,5 +109118,85 @@
         "link2": "",
         "link3": "",
         "timestamp": 1793954108083
+    },
+    {
+        "gridId": "304140146",
+        "info": "Name: Manoj Kumar\nYOB: 1981\nGEO: UP, Mathura, Vrindavan Mathura",
+        "link1": "https://www.mycorporator.in/up/mathura/vrindavan-mathura/2023/ward/49/manoj-kumar",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304217401",
+        "info": "Name: Gareth Jones\nDOB: 1986\nGEO: Telford",
+        "link1": "https://www.westmercia.police.uk/news/west-mercia/news/2026/november/extension-given-to-telford-mans-behaviour-order/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304174736",
+        "info": "Name: Andrés Meta\nAlias: Andrés Patricio Meta",
+        "link1": "https://www.bloomberg.com/profile/person/24456032",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304060351",
+        "info": "Name: Jason Reese\nFull Name: Jason Ray Reese\nGEO: Camas, WA",
+        "link1": "https://www.whitepages.com/name/Jason-Ray-Reese/Camas-WA/PbywN5PXb94",
+        "link2": "https://www.riversidepayments.com/team",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304149272",
+        "info": "",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304178141",
+        "info": "Name: Asad Mahmood\nDOB: 1985",
+        "link1": "https://en.wikipedia.org/wiki/Asad_Mehmood",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304149375",
+        "info": "Name: José Tomás Gómez Machuca",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304061310",
+        "info": "Name: Raheem Khan\nDOB: 1999",
+        "link1": "https://www.westmidlands.police.uk/news/west-midlands/news/news/2026/november/watch-armed-drug-",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304174995",
+        "info": "Name: Mohammad Ali Abu Shaar",
+        "link1": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744868",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
+    },
+    {
+        "gridId": "304057126",
+        "info": "Name: John Mills\nEvent Date: 11/04/2026",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1793959061974
     }
 ]
