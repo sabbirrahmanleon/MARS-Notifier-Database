@@ -111584,14 +111584,6 @@
         "timestamp": 1794470762252
     },
     {
-        "gridId": "304447403",
-        "info": "Name: Chaz Davis\nDOB: 1983",
-        "link1": "https://13wham.com/newsletter-daily/deputy-hurt-by-man-fleeing-stolen-vehicle-investigation-at-farmington-business-ontario-county-sheriffs-office-chaz-davis",
-        "link2": "",
-        "link3": "",
-        "timestamp": 1794470762252
-    },
-    {
         "gridId": "304449594",
         "info": "Name: William Palmer\nAlias: William Monroe Palmer II\nAlias: William M. Palmer, II\nDOB: 1970",
         "link1": "https://www.sf.gov/profile--william-m-palmer-ii",
@@ -111641,9 +111633,9 @@
     },
     {
         "gridId": "304445005",
-        "info": "Name: Michael Clark Varela\nDOB: 06/22/1977",
+        "info": "Name: Michael Clark Varela\nAlias: Michael Mark Clark Varela\nDOB: 06/22/1977",
         "link1": "https://www.malaespinacheck.cl/pais/2024/12/27/quien-es-michael-clark-el-controlador-de-la-u-bajo-la-lupa-de-la-cmf/",
-        "link2": "",
+        "link2": "https://www.bloomberg.com/profile/person/22829220",
         "link3": "",
         "timestamp": 1794470762252
     },
@@ -111966,5 +111958,69 @@
         "link2": "",
         "link3": "",
         "timestamp": 1794476582622
+    },
+    {
+        "gridId": "304441861",
+        "info": "Name: FELIPE DE SOUZA DOS SANTOS\nDOB: 1994",
+        "link1": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/11/10/homem-e-preso-por-trafico-de-armas.ghtml",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794477064816
+    },
+    {
+        "gridId": "304447403",
+        "info": "Name: Chaz Davis\nAlias: Chaz K. Davis\nDOB: 1983",
+        "link1": "https://www.rochesterfirst.com/crime/police/two-arrested-one-suspect-at-large-for-farmington-fraud/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794477064816
+    },
+    {
+        "gridId": "304449269",
+        "info": "Name: Lewis Matthew Neal\nDOB: 1995\nGEO: Celina, Texas",
+        "link1": "https://www.sec.gov/files/litigation/admin/2026/34-106541.pdf",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794483205280
+    },
+    {
+        "gridId": "304606462",
+        "info": "Name: Ahmed al-Alwani\nAlias: Al Alwani Ahmad Sultan Zameel Mehna\nAlias: Ahmad Sultan Zameel Mehna Al Alwani\nAlias: أحمد العلواني\nDOB: 1969",
+        "link1": "https://www.jpost.com/middle-east/article-914526",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794483205280
+    },
+    {
+        "gridId": "304447493",
+        "info": "Name: Daniel Chinedu Okafor\nDOB: 12/14/1981",
+        "link1": "https://www.stpso.com/news_detail_T6_R294.php",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794483205280
+    },
+    {
+        "gridId": "304448504",
+        "info": "Name: Brandon Griffin\nAlias: Brandon C. Griffin, Jr\nDOB: 2000",
+        "link1": "https://www.justice.gov/usao-mdla/pr/defendants-sentenced-federal-prison-conspiracy-commit-thefts-atms",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794483205280
+    },
+    {
+        "gridId": "304449266",
+        "info": "Name: Jordan Taylor Morgan\nGEO: Harris County, Texas\nDOB: 1991",
+        "link1": "https://business.cch.com/srd/ENF_Morgan110926111026.pdf",
+        "link2": "https://www.vitallaw.com/news/enforcement-cftc-sanctions-eight-individuals-for-acting-as-unregistered-associated-persons-of-foreign-ibs/sld01aa718f9bc7334050ae092f0bdcc2f051",
+        "link3": "https://www.sec.gov/files/litigation/admin/2026/34-106540.pdf",
+        "timestamp": 1794483205280
+    },
+    {
+        "gridId": "304520784",
+        "info": "Name: Julio Rodolfo González\nAlias: Julio R Gonzales\nDOB: October 1974",
+        "link1": "https://www.truepeoplesearch.com/find/person/pxu0089nr622nl42ru949",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1794483205280
     }
 ]
