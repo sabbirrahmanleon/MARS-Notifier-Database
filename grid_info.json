@@ -117520,7 +117520,7 @@
         "timestamp": 1795260272640
     },
     {
-        "gridId": "305397998",
+        "gridId": "305397998, 305587396",
         "info": "Name: Mohammad Jahangir Alam\nDOB: 1972",
         "link1": "https://www.bssnews.net/law-and-court/384392",
         "link2": "",
@@ -118184,10 +118184,10 @@
         "timestamp": 1795486512791
     },
     {
-        "gridId": "305564944",
-        "info": "Name: Josué López Hernández",
+        "gridId": "305564944, 305626569",
+        "info": "Name: Josué López Hernández\ndob: 1976-12-20",
         "link1": "https://www.borderreport.com/border-report-tour/border-crime/federal-cartel-indictment-ties-10-defendants-to-crash-that-killed-8-migrants/",
-        "link2": "",
+        "link2": "https://www.opensanctions.org/entities/NK-3GoyFZM4tP7eiJCzTTQcyR/",
         "link3": "",
         "timestamp": 1795486512791
     },
@@ -118390,5 +118390,53 @@
         "link2": "https://www.keralakaumudi.com/en/india/general/double-murder-in-tirupattur-1829005",
         "link3": "",
         "timestamp": 1795497767974
+    },
+    {
+        "gridId": "305589839",
+        "info": "Name: Delaney Driscoll\nDOB: 1997",
+        "link1": "https://www.yahoo.com/news/3-face-off-mayor-salem-134800399.html",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1795501630631
+    },
+    {
+        "gridId": "305580449",
+        "info": "Name: Harold Joseph Green\nDOB: 1973",
+        "link1": "https://www.laprensa.hn/fotogalerias/sucesos/estadounidenses-capturados-roatan-estarian-implicados-desaparicion-angie-pena-ministerio-publico-OJ18775821#image-6",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1795501630631
+    },
+    {
+        "gridId": "305626536",
+        "info": "Name: José Adolfo Macías Villamar\nDOB: September 30, 1979",
+        "link1": "https://en.wikipedia.org/wiki/Jos%C3%A9_Adolfo_Mac%C3%ADas_Villamar",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1795501630631
+    },
+    {
+        "gridId": "305586006",
+        "info": "Name: Tyler King\nAlias: Tyler Robb King\nGEO: New York State, USA",
+        "link1": "https://www.cp24.com/news/canada/2026/11/02/former-ajhl-bchl-broadcaster-front-office-exec-charged-with-sex-crimes-against-minors/",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1795501630631
+    },
+    {
+        "gridId": "305594329",
+        "info": "Name: Li Gang\nDOB: 11/-/1974",
+        "link1": "https://vip.stock.finance.sina.com.cn/corp/view/vCI_CorpManagerInfo.php?stockid=002719&amp;Pcode=30259905&amp;Name=%C0%EE%B8%D5",
+        "link2": "",
+        "link3": "",
+        "timestamp": 1795501630631
+    },
+    {
+        "gridId": "305582652",
+        "info": "Name: Matthew Rivera\nDOB: November 1967",
+        "link1": "https://www.sec.gov/divisions/enforce/claims/docs/rivera-complaint.pdf",
+        "link2": "https://www.truepeoplesearch.com/find/person/p8rn808lr60unr9nru0",
+        "link3": "",
+        "timestamp": 1795501630631
     }
 ]
