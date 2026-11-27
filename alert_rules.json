@@ -727,5 +727,23 @@
         "keyword": "Escalate Inquiry Match",
         "message": "• DOB Confusion<br>\n• Name Confusion<br>\n• Geo Confusion<br>\n• Relationship Confusion<br>\n• Imat Confusion<br>\n• Gender Confusion<br>\n• Exact Confusion<br>\n• Update Confusion<br>\n• Inquiry Profile Confusion<br>\n• Alert Confusion<br>\n• Dupe Confusion<br>\n• Auto Escalate",
         "position": "bottom-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: PI20003P, Firm Number: PI20002T, Firm Number: PI20003T, Firm Number: PI20002P",
+        "message": "IF NO ADDRESS PROVIDED, NO MATCH",
+        "position": "bottom-center"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "18px",
+        "keyword": "Firm Number: PI20002T + \"WLT\"",
+        "message": "Check instructions before submitting",
+        "position": "middle-right"
     }
 ]
