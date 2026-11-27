@@ -745,5 +745,14 @@
         "keyword": "Firm Number: PI20002T + \"WLT\",  Firm Number: PI20002P + \"WLT\",",
         "message": "Check instructions before submitting",
         "position": "middle-right"
+    },
+    {
+        "active": true,
+        "color": "#b71c1c",
+        "exception": "",
+        "fontSize": "22px",
+        "keyword": "IMO number, #Vessel",
+        "message": "Grid is Likely a vessel",
+        "position": "bottom-center"
     }
 ]
