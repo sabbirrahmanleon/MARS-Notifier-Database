@@ -742,7 +742,7 @@
         "color": "#b71c1c",
         "exception": "",
         "fontSize": "18px",
-        "keyword": "Firm Number: PI20002T + \"WLT\"",
+        "keyword": "Firm Number: PI20002T + \"WLT\",  Firm Number: PI20002P + \"WLT\",",
         "message": "Check instructions before submitting",
         "position": "middle-right"
     }
